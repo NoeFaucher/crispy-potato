@@ -1,0 +1,189 @@
+{
+    "questions": [
+        {
+            "sourceFile": "2022 - EPAC_exam_mcq_en.pdf",
+            "group": "EPAC",
+            "edition": "2022",
+            "type": "mcq",
+            "questionID": "2",
+            "question": "Under Rule 126(2) EPC, how is the delivery date of a registered letter determined?",
+            "answer": [
+                {
+                    "ID": "A",
+                    "content": "The letter is deemed delivered on the 10th day after handover to the postal service",
+                    "correct": true
+                },
+                {
+                    "ID": "B",
+                    "content": "The letter is deemed delivered on the 5th day after handover to the postal service",
+                    "correct": false
+                },
+                {
+                    "ID": "C",
+                    "content": "The letter is deemed delivered on the actual date of receipt",
+                    "correct": false
+                },
+                {
+                    "ID": "D",
+                    "content": "The letter is deemed delivered on the 15th day after handover to the postal service",
+                    "correct": false
+                }
+            ],
+            "explanation": "Rule 126(2) EPC states that the letter is deemed delivered on the 10th day after handover to the postal service unless it fails to reach the addressee or reaches them later.",
+            "legalBasis": [
+                {
+                    "name": "Rule 126(2) EPC",
+                    "content": "Where notification is effected by registered letter, the letter shall be deemed to be delivered to the addressee on the tenth day following its handover to the postal service provider unless it has failed to reach the addressee or has reached him at a later date."
+                }
+            ]
+        },
+        {
+            "sourceFile": "2022 - EPAC_exam_mcq_en.pdf",
+            "group": "EPAC",
+            "edition": "2022",
+            "type": "mcq",
+            "questionID": "3",
+            "question": "What is the time limit for requesting further processing under Article 121(1) EPC?",
+            "answer": [
+                {
+                    "ID": "A",
+                    "content": "Two months from the communication of failure to observe a time limit",
+                    "correct": true
+                },
+                {
+                    "ID": "B",
+                    "content": "One month from the communication of failure to observe a time limit",
+                    "correct": false
+                },
+                {
+                    "ID": "C",
+                    "content": "Three months from the communication of failure to observe a time limit",
+                    "correct": false
+                },
+                {
+                    "ID": "D",
+                    "content": "Four months from the communication of failure to observe a time limit",
+                    "correct": false
+                }
+            ],
+            "explanation": "Rule 135(1) EPC specifies that further processing must be requested within two months of the communication concerning the failure to observe a time limit.",
+            "legalBasis": [
+                {
+                    "name": "Rule 135(1) EPC",
+                    "content": "Further processing under Article 121, paragraph 1, shall be requested by payment of the prescribed fee within two months of the communication concerning either the failure to observe a time limit or a loss of rights. The omitted act shall be completed within the period for making the request."
+                }
+            ]
+        },
+        {
+            "sourceFile": "2022 - EPAC_exam_mcq_en.pdf",
+            "group": "EPAC",
+            "edition": "2022",
+            "type": "mcq",
+            "questionID": "4",
+            "question": "Can the time limit for replying to a communication from the examining division be extended?",
+            "answer": [
+                {
+                    "ID": "A",
+                    "content": "Yes, in special cases upon request before the expiry of the period",
+                    "correct": true
+                },
+                {
+                    "ID": "B",
+                    "content": "No, the time limit cannot be extended",
+                    "correct": false
+                },
+                {
+                    "ID": "C",
+                    "content": "Yes, but only if the request is made after the expiry of the period",
+                    "correct": false
+                },
+                {
+                    "ID": "D",
+                    "content": "Yes, but only if the request is made within one month after the expiry of the period",
+                    "correct": false
+                }
+            ],
+            "explanation": "Rule 132(c) EPC allows for the extension of the period in special cases upon request before the expiry of the period.",
+            "legalBasis": [
+                {
+                    "name": "Rule 132(c) EPC",
+                    "content": "In special cases, the period may be extended upon request, presented before the expiry of such period."
+                }
+            ]
+        },
+        {
+            "sourceFile": "2022 - EPAC_exam_mcq_en.pdf",
+            "group": "EPAC",
+            "edition": "2022",
+            "type": "mcq",
+            "questionID": "5",
+            "question": "What is the consequence of failing to reply to a communication from the examining division within the set time limit?",
+            "answer": [
+                {
+                    "ID": "A",
+                    "content": "The application is deemed withdrawn",
+                    "correct": true
+                },
+                {
+                    "ID": "B",
+                    "content": "The application is automatically granted",
+                    "correct": false
+                },
+                {
+                    "ID": "C",
+                    "content": "The time limit is automatically extended by two months",
+                    "correct": false
+                },
+                {
+                    "ID": "D",
+                    "content": "The applicant is given an additional opportunity to reply without any consequences",
+                    "correct": false
+                }
+            ],
+            "explanation": "Failing to reply within the set time limit results in the application being deemed withdrawn.",
+            "legalBasis": [
+                {
+                    "name": "Article 94(3) EPC",
+                    "content": "If the applicant fails to reply in due time to a communication under paragraph 3, the application shall be deemed to be withdrawn."
+                }
+            ]
+        },
+        {
+            "sourceFile": "2022 - EPAC_exam_mcq_en.pdf",
+            "group": "EPAC",
+            "edition": "2022",
+            "type": "mcq",
+            "questionID": "6",
+            "question": "Which of the following is a correct statement regarding the communication under Article 94(3) EPC?",
+            "answer": [
+                {
+                    "ID": "A",
+                    "content": "The communication sets a time limit of four months for replying to objections",
+                    "correct": true
+                },
+                {
+                    "ID": "B",
+                    "content": "The communication sets a time limit of six months for replying to objections",
+                    "correct": false
+                },
+                {
+                    "ID": "C",
+                    "content": "The communication does not set any time limit for replying to objections",
+                    "correct": false
+                },
+                {
+                    "ID": "D",
+                    "content": "The communication sets a time limit of two months for replying to objections",
+                    "correct": false
+                }
+            ],
+            "explanation": "The communication under Article 94(3) EPC sets a time limit of four months for replying to objections raised by the examining division.",
+            "legalBasis": [
+                {
+                    "name": "Article 94(3) EPC",
+                    "content": "The Examining Division shall invite the applicant to file his observations within a period of four months."
+                }
+            ]
+        }
+    ]
+}
