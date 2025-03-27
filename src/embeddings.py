@@ -65,6 +65,13 @@ def handle_article_file(filename, contents, embeddings):
     contents += [(re.sub(r'\[.*?\]', '', i['title']) + " | " + j["id"]).encode("utf-8") for i in articles_json for j in i["content"]]
     embeddings += compute_article_embeddings(articles_json, model)
 
+
+def handle_question_file(filename, contents, embeddings):
+    with open(filename, 'r') as file:
+        articles_json = json.load(file)
+    contents += [(re.sub(r'\[.*?\]', '', i['title']) + " | " + j["id"]).encode("utf-8") for i in articles_json for j in i["content"]]
+    embeddings += compute_article_embeddings(articles_json, model)
+
 embed = "articles"
 if embed == "questions":
     with open('epc_questions.json', 'r') as file:
