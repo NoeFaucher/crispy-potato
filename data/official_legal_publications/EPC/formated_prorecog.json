@@ -1,0 +1,180 @@
+[
+    {
+        "id": "PRORECOG",
+        "title": "Protocol on Jurisdiction and the Recognition of Decisions in respect of the Right to the Grant of a European Patent (Protocol on Recognition)",
+        "content": [
+            {
+                "id": "PRORECOG_pre",
+                "text": "of 5\u00a0October 1973 Section I  Jurisdiction"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A1",
+        "title": "Article\u00a01  [1]",
+        "content": [
+            {
+                "id": "PRORECOG_A1_1",
+                "text": "The courts of the Contracting States shall, in accordance with  Articles 2  to  6 , have jurisdiction to decide claims, against the applicant, to the right to the grant of a European patent in respect of one or more of the Contracting States designated in the European patent application."
+            },
+            {
+                "id": "PRORECOG_A1_2",
+                "text": "For the purposes of this Protocol, the term \"courts\" shall include authorities which, under the national law of a Contracting State, have jurisdiction to decide the claims referred to in paragraph 1. Any Contracting State shall notify the European Patent Office of the identity of any authority on which such a jurisdiction is conferred, and the European Patent Office shall inform the other Contracting States accordingly."
+            },
+            {
+                "id": "PRORECOG_A1_3",
+                "text": "For the purposes of this Protocol, the term \"Contracting State\" refers to a Contracting State which has not excluded application of this Protocol pursuant to  Article\u00a0167  EPC  of the Convention ."
+            }
+        ],
+        "footnotes": [
+            {
+                "key": "1",
+                "content": "See decision of the Enlarged Board of Appeal G\u00a03/92 (Annex\u00a0I)."
+            }
+        ]
+    },
+    {
+        "id": "PRORECOG_A2",
+        "title": "Article\u00a02",
+        "content": [
+            {
+                "id": "PRORECOG_A2_pre",
+                "text": "Subject to  Articles 4  and  5 , if an applicant for a European patent has his residence or principal place of business within one of the Contracting States, proceedings shall be brought against him in the courts of that Contracting State."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A3",
+        "title": "Article\u00a03",
+        "content": [
+            {
+                "id": "PRORECOG_A3_pre",
+                "text": "Subject to  Articles 4  and  5 , if an applicant for a European patent has his residence or principal place of business outside the Contracting States, and if the party claiming the right to the grant of the European patent has his residence or principal place of business within one of the Contracting States, the courts of the latter State shall have exclusive jurisdiction."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A4",
+        "title": "Article\u00a04",
+        "content": [
+            {
+                "id": "PRORECOG_A4_pre",
+                "text": "Subject to  Article\u00a05 , if the subject-matter of a European patent application is the invention of an employee, the courts of the Contracting State, if any, whose law determines the right to the European patent pursuant to  Article\u00a060, paragraph 1  EPC , second sentence, of the Convention, shall have exclusive jurisdiction over proceedings between the employee and the employer."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A5",
+        "title": "Article\u00a05",
+        "content": [
+            {
+                "id": "PRORECOG_A5_1",
+                "text": "If the parties to a dispute concerning the right to the grant of a European patent have concluded an agreement, either in writing or verbally with written confirmation, to the effect that a court or the courts of a particular Contracting State shall decide on such a dispute, the court or courts of that State shall have exclusive jurisdiction."
+            },
+            {
+                "id": "PRORECOG_A5_2",
+                "text": "However, if the parties are an employee and his employer, paragraph 1 shall only apply in so far as the national law governing the contract of employment allows the agreement in question."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A6",
+        "title": "Article\u00a06",
+        "content": [
+            {
+                "id": "PRORECOG_A6_pre",
+                "text": "In cases where neither  Articles 2  to  4  nor  Article\u00a05, paragraph 1 , apply, the courts of the Federal Republic of Germany shall have exclusive jurisdiction."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A7",
+        "title": "Article\u00a07",
+        "content": [
+            {
+                "id": "PRORECOG_A7_pre",
+                "text": "The courts of Contracting States before which claims referred to in  Article\u00a01  are brought shall of their own motion decide whether or not they have jurisdiction pursuant to  Articles 2  to  6 ."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A8",
+        "title": "Article\u00a08",
+        "content": [
+            {
+                "id": "PRORECOG_A8_1",
+                "text": "In the event of proceedings based on the same claim and between the same parties being brought before courts of different Contracting States, the court to which a later application is made shall of its own motion decline jurisdiction in favour of the court to which an earlier application was made."
+            },
+            {
+                "id": "PRORECOG_A8_2",
+                "text": "In the event of the jurisdiction of the court to which an earlier application is made being challenged, the court to which a later application is made shall stay the proceedings until the other court takes a final decision."
+            },
+            {
+                "id": "PRORECOG_A8_2_inter",
+                "text": "Section II  Recognition"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A9",
+        "title": "Article\u00a09  [2]",
+        "content": [
+            {
+                "id": "PRORECOG_A9_1",
+                "text": "Subject to the provisions of  Article\u00a011, paragraph 2 , final decisions given in any Contracting State on the right to the grant of a European patent in respect of one or more of the Contracting States designated in the European patent application shall be recognised without requiring a special procedure in the other Contracting States."
+            },
+            {
+                "id": "PRORECOG_A9_2",
+                "text": "The jurisdiction of the court whose decision is to be recognised and the validity of such decision may not be reviewed."
+            }
+        ],
+        "footnotes": [
+            {
+                "key": "2",
+                "content": "See decision of the Enlarged Board of Appeal G\u00a03/9 (Annex\u00a0I)."
+            }
+        ]
+    },
+    {
+        "id": "PRORECOG_A10",
+        "title": "Article\u00a010",
+        "content": [
+            {
+                "id": "PRORECOG_A10_pre",
+                "text": "Article\u00a09, paragraph 1 , shall not be applicable where:"
+            },
+            {
+                "id": "None",
+                "text": "an applicant for a European patent who has not contested a claim proves that the document initiating the proceedings was not notified to him regularly and sufficiently early for him to defend himself; or"
+            },
+            {
+                "id": "None",
+                "text": "an applicant proves that the decision is incompatible with another decision given in a Contracting State in proceedings between the same parties which were started before those in which the decision to be recognised was given."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PRORECOG_A11",
+        "title": "Article\u00a011",
+        "content": [
+            {
+                "id": "PRORECOG_A11_1",
+                "text": "In relations between any Contracting States the provisions of this Protocol shall prevail over any conflicting provisions of other agreements on jurisdiction or the recognition of judgments."
+            },
+            {
+                "id": "PRORECOG_A11_2",
+                "text": "This Protocol shall not affect the implementation of any agreement between a Contracting State and a State which is not bound by the Protocol."
+            }
+        ],
+        "footnotes": []
+    }
+]

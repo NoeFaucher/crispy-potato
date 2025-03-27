@@ -1,0 +1,2245 @@
+[
+    {
+        "id": "WIPO_A1",
+        "title": "Article 1 Establishment of a Union",
+        "chapter": "INTRODUCTORY PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A1_1",
+                "text": "  The States party to this Treaty (hereinafter called “the Contracting \nStates”) constitute a Union for cooperation in the filing, searching, and \nexamination, of applications for the protection of inventions, and for rendering \nspecial technical services.  The Union shall be known as the International Patent \nCooperation Union. "
+            },
+            {
+                "id": "WIPO_A1_2",
+                "text": "  No provision of this Treaty shall be interpreted as diminishing the rights \nunder the Paris Convention for the Protection of Industrial Property of any \nnational or resident of any country party to that Convention. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A2",
+        "title": "Article 2 Definitions",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A2_pre",
+                "text": "For the purposes of this Treaty and the Regulations and unless expressly  stated otherwise:"
+            },
+            {
+                "id": "WIPO_A2_i",
+                "text": " “application” means an application for the protection of an \ninvention;  references to an “application” shall be construed as references to \napplications for patents for inventions, inventors’ certificates, utility certificates, \nutility models, patents or certificates of addition, inventors’ certificates of \naddition, and utility certificates of addition; \n "
+            },
+            {
+                "id": "WIPO_A2_ii",
+                "text": " references to a “patent” shall be construed as references to patents \nfor inventions, inventors’ certificates, utility certificates, utility models, patents \nor certificates of addition, inventors’ certificates of addition, and utility \ncertificates of addition; \n "
+            },
+            {
+                "id": "WIPO_A2_iii",
+                "text": " “national patent” means a patent granted by a national authority; \n "
+            },
+            {
+                "id": "WIPO_A2_iv",
+                "text": " “regional patent” means a patent granted by a national or an \nintergovernmental authority having the power to grant patents effective in more \nthan one State; \n "
+            },
+            {
+                "id": "WIPO_A2_v",
+                "text": " “regional application” means an application for a regional patent; \n "
+            },
+            {
+                "id": "WIPO_A2_vi",
+                "text": " references to a “national application” shall be construed as \nreferences to applications for national patents and regional patents, other than \napplications filed under this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A2_vii",
+                "text": " “international application” means an application filed under this \nTreaty; "
+            },
+            {
+                "id": "WIPO_A2_viii",
+                "text": " references to an “application” shall be construed as references to \ninternational applications and national applications; \n "
+            },
+            {
+                "id": "WIPO_A2_ix",
+                "text": " references to a “patent” shall be construed as references to national \npatents and regional patents; \n "
+            },
+            {
+                "id": "WIPO_A2_x",
+                "text": " references to “national law” shall be construed as references to the \nnational law of a Contracting State or, where a regional application or a regional \npatent is involved, to the treaty providing for the filing of regional applications \nor the granting of regional patents; \n "
+            },
+            {
+                "id": "WIPO_A2_xi",
+                "text": " “priority date,” for the purposes of computing time limits, means: \n "
+            },
+            {
+                "id": "WIPO_A2_a",
+                "text": "  where the international application contains a priority claim \nunder Article 8, the filing date of the application whose priority is so claimed; \n "
+            },
+            {
+                "id": "WIPO_A2_b",
+                "text": "  where the international application contains several priority \nclaims under Article 8, the filing date of the earliest application whose priority \nis so claimed; \n "
+            },
+            {
+                "id": "WIPO_A2_c",
+                "text": "  where the international application does not contain any priority \nclaim under Article 8, the international filing date of such application; \n "
+            },
+            {
+                "id": "WIPO_A2_xii",
+                "text": " “national Office” means the government authority of a Contracting \nState entrusted with the granting of patents;  references to a “national Office” \nshall be construed as referring also to any intergovernmental authority which \nseveral States have entrusted with the task of granting regional patents, \nprovided that at least one of those States is a Contracting State, and provided \nthat the said States have authorized that authority to assume the obligations and \nexercise the powers which this Treaty and the Regulations provide for in respect \nof national Offices; \n "
+            },
+            {
+                "id": "WIPO_A2_xiii",
+                "text": " “designated Office” means the national Office of or acting for the \nState designated by the applicant under Chapter I of this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A2_xiv",
+                "text": " “elected Office” means the national Office of or acting for the State \nelected by the applicant under Chapter II of this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A2_xv",
+                "text": " “receiving \nOffice” \nmeans \nthe \nnational \nOffice \nor \nthe \nintergovernmental organization with which the international application has \nbeen filed; \n "
+            },
+            {
+                "id": "WIPO_A2_xvi",
+                "text": " “Union” means the International Patent Cooperation Union; \n "
+            },
+            {
+                "id": "WIPO_A2_xvii",
+                "text": " “Assembly” means the Assembly of the Union; \n "
+            },
+            {
+                "id": "WIPO_A2_xvii",
+                "text": " “Organization” means the World Intellectual Property Organization; \n "
+            },
+            {
+                "id": "WIPO_A2_xix",
+                "text": " “International Bureau” means the International Bureau of the \nOrganization and, as long as it subsists, the United International Bureaux for the \nProtection of Intellectual Property (BIRPI); "
+            },
+            {
+                "id": "WIPO_A2_xx",
+                "text": " “Director General” means the Director General of the Organization \nand, as long as BIRPI subsists, the Director of BIRPI. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A3",
+        "title": "Article 3 The International Application",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A3_1",
+                "text": "  Applications for the protection of inventions in any of the Contracting \nStates may be filed as international applications under this Treaty. "
+            },
+            {
+                "id": "WIPO_A3_2",
+                "text": "  An international application shall contain, as specified in this Treaty and \nthe Regulations, a request, a description, one or more claims, one or more \ndrawings (where required), and an abstract. "
+            },
+            {
+                "id": "WIPO_A3_3",
+                "text": "  The abstract merely serves the purpose of technical information and \ncannot be taken into account for any other purpose, particularly not for the \npurpose of interpreting the scope of the protection sought. "
+            },
+            {
+                "id": "WIPO_A3_4",
+                "text": "  The international application shall: \n "
+            },
+            {
+                "id": "WIPO_A3_4_i",
+                "text": " be in a prescribed language; \n "
+            },
+            {
+                "id": "WIPO_A3_4_ii",
+                "text": " comply with the prescribed physical requirements; \n "
+            },
+            {
+                "id": "WIPO_A3_4_iii",
+                "text": " comply with the prescribed requirement of unity of invention; \n "
+            },
+            {
+                "id": "WIPO_A3_4_iv",
+                "text": " be subject to the payment of the prescribed fees. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A4",
+        "title": "Article 4 The Request",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A4_1",
+                "text": "  The request shall contain: \n "
+            },
+            {
+                "id": "WIPO_A4_1_i",
+                "text": " a petition to the effect that the international application be processed \naccording to this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A4_1_ii",
+                "text": " the designation of the Contracting State or States in which protection \nfor the invention is desired on the basis of the international application \n(“designated States”);  if for any designated State a regional patent is available \nand the applicant wishes to obtain a regional patent rather than a national \npatent, the request shall so indicate;  if, under a treaty concerning a regional \npatent, the applicant cannot limit his application to certain of the States party to \nthat treaty, designation of one of those States and the indication of the wish to \nobtain the regional patent shall be treated as designation of all the States party \nto that treaty;  if, under the national law of the designated State, the designation \nof that State has the effect of an application for a regional patent, the  designation of the said State shall be treated as an indication of the wish to  obtain the regional patent;"
+            },
+            {
+                "id": "WIPO_A4_1_iii",
+                "text": " the name of and other prescribed data concerning the applicant and \nthe agent (if any); \n "
+            },
+            {
+                "id": "WIPO_A4_1_iv",
+                "text": " the title of the invention; \n "
+            },
+            {
+                "id": "WIPO_A4_1_v",
+                "text": " the name of and other prescribed data concerning the inventor where \nthe national law of at least one of the designated States requires that these \nindications be furnished at the time of filing a national application.  Otherwise, \nthe said indications may be furnished either in the request or in separate notices \naddressed to each designated Office whose national law requires the furnishing \nof the said indications but allows that they be furnished at a time later than that \nof the filing of a national application. "
+            },
+            {
+                "id": "WIPO_A4_2",
+                "text": "  Every designation shall be subject to the payment of the prescribed fee \nwithin the prescribed time limit. "
+            },
+            {
+                "id": "WIPO_A4_3",
+                "text": "  Unless the applicant asks for any of the other kinds of protection \nreferred to in Article 43, designation shall mean that the desired protection \nconsists of the grant of a patent by or for the designated State.  For the purposes \nof this paragraph, Article 2(ii) shall not apply. "
+            },
+            {
+                "id": "WIPO_A4_4",
+                "text": "  Failure to indicate in the request the name and other prescribed data \nconcerning the inventor shall have no consequence in any designated State \nwhose national law requires the furnishing of the said indications but allows \nthat they be furnished at a time later than that of the filing of a national \napplication.  Failure to furnish the said indications in a separate notice shall \nhave no consequence in any designated State whose national law does not \nrequire the furnishing of the said indications. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A5",
+        "title": "Article 5 The Description",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A5_pre",
+                "text": " \nThe description shall disclose the invention in a manner sufficiently clear \nand complete for the invention to be carried out by a person skilled in the art. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A6",
+        "title": "Article 6 The Claims",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A6_pre",
+                "text": " \nThe claim or claims shall define the matter for which protection is sought.  \nClaims shall be clear and concise.  They shall be fully supported by the \ndescription. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A7",
+        "title": "Article 7 The Drawings",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A7_1",
+                "text": "  Subject to the provisions of paragraph (2)(ii), drawings shall be required \nwhen they are necessary for the understanding of the invention. "
+            },
+            {
+                "id": "WIPO_A7_2",
+                "text": "  Where, without being necessary for the understanding of the invention, \nthe nature of the invention admits of illustration by drawings: \n "
+            },
+            {
+                "id": "WIPO_A7_2_i",
+                "text": " the applicant may include such drawings in the international \napplication when filed, \n "
+            },
+            {
+                "id": "WIPO_A7_2_ii",
+                "text": " any designated Office may require that the applicant file such \ndrawings with it within the prescribed time limit. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A8",
+        "title": "Article 8 Claiming Priority",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A8_1",
+                "text": "  The international application may contain a declaration, as prescribed in \nthe Regulations, claiming the priority of one or more earlier applications filed in \nor for any country party to the Paris Convention for the Protection of Industrial \nProperty. "
+            },
+            {
+                "id": "WIPO_A8_2_a",
+                "text": "  Subject to the provisions of subparagraph (b), the conditions for, and \nthe effect of, any priority claim declared under paragraph (1) shall be as \nprovided in Article 4 of the Stockholm Act of the Paris Convention for the \nProtection of Industrial Property. "
+            },
+            {
+                "id": "WIPO_A8_2_b",
+                "text": "  The international application for which the priority of one or more \nearlier applications filed in or for a Contracting State is claimed may contain the \ndesignation of that State.  Where, in the international application, the priority of \none or more national applications filed in or for a designated State is claimed, or \nwhere the priority of an international application having designated only one \nState is claimed, the conditions for, and the effect of, the priority claim in that \nState shall be governed by the national law of that State. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A9",
+        "title": "Article 9 The Applicant",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A9_1",
+                "text": "  Any resident or national of a Contracting State may file an international \napplication. "
+            },
+            {
+                "id": "WIPO_A9_2",
+                "text": "  The Assembly may decide to allow the residents and the nationals of \nany country party to the Paris Convention for the Protection of Industrial \nProperty which is not party to this Treaty to file international applications. "
+            },
+            {
+                "id": "WIPO_A9_3",
+                "text": "  The concepts of residence and nationality, and the application of those \nconcepts in cases where there are several applicants or where the applicants are \nnot the same for all the designated States, are defined in the Regulations. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A10",
+        "title": "Article 10 The Receiving Office",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A10_pre",
+                "text": " \nThe international application shall be filed with the prescribed receiving \nOffice, which will check and process it as provided in this Treaty and the \nRegulations. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A11",
+        "title": "Article 11 Filing Date and Effects of the International Application",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A11_1",
+                "text": "  The receiving Office shall accord as the international filing date the date \nof receipt of the international application, provided that that Office has found \nthat, at the time of receipt: \n "
+            },
+            {
+                "id": "WIPO_A11_1_i",
+                "text": " the applicant does not obviously lack, for reasons of residence or \nnationality, the right to file an international application with the receiving \nOffice, \n "
+            },
+            {
+                "id": "WIPO_A11_1_ii",
+                "text": " the international application is in the prescribed language, \n "
+            },
+            {
+                "id": "WIPO_A11_1_iii",
+                "text": " the international application contains at least the following elements: \n "
+            },
+            {
+                "id": "WIPO_A11_1_a",
+                "text": "  an indication that it is intended as an international application, \n "
+            },
+            {
+                "id": "WIPO_A11_1_b",
+                "text": "  the designation of at least one Contracting State, \n "
+            },
+            {
+                "id": "WIPO_A11_1_c",
+                "text": "  the name of the applicant, as prescribed, \n "
+            },
+            {
+                "id": "WIPO_A11_1_d",
+                "text": "  a part which on the face of it appears to be a description, \n "
+            },
+            {
+                "id": "WIPO_A11_1_e",
+                "text": "  a part which on the face of it appears to be a claim or claims. "
+            },
+            {
+                "id": "WIPO_A11_2_a",
+                "text": "  If the receiving Office finds that the international application did not, \nat the time of receipt, fulfill the requirements listed in paragraph (1), it shall, as \nprovided in the Regulations, invite the applicant to file the required correction. "
+            },
+            {
+                "id": "WIPO_A11_2_b",
+                "text": "  If the applicant complies with the invitation, as provided in the \nRegulations, the receiving Office shall accord as the international filing date the \ndate of receipt of the required correction. "
+            },
+            {
+                "id": "WIPO_A11_3",
+                "text": "  Subject to Article 64(4), any international application fulfilling the \nrequirements listed in items (i) to (iii) of paragraph (1) and accorded an \ninternational filing date shall have the effect of a regular national application in \neach designated State as of the international filing date, which date shall be \nconsidered to be the actual filing date in each designated State. "
+            },
+            {
+                "id": "WIPO_A11_4",
+                "text": "  Any international application fulfilling the requirements listed in \nitems (i) to (iii) of paragraph (1) shall be equivalent to a regular national filing \nwithin the meaning of the Paris Convention for the Protection of Industrial \nProperty. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A12",
+        "title": "Article 12 Transmittal of the International Application to the  International Bureau and the International Searching Authority",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A12_1",
+                "text": "  One copy of the international application shall be kept by the receiving \nOffice (“home copy”), one copy (“record copy”) shall be transmitted to the \nInternational Bureau, and another copy (“search copy”) shall be transmitted to \nthe competent International Searching Authority referred to in Article 16, as \nprovided in the Regulations. "
+            },
+            {
+                "id": "WIPO_A12_2",
+                "text": "  The record copy shall be considered the true copy of the international \napplication. "
+            },
+            {
+                "id": "WIPO_A12_3",
+                "text": "  The international application shall be considered withdrawn if the \nrecord copy has not been received by the International Bureau within the \nprescribed time limit. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A13",
+        "title": "Article 13 Availability of Copy of the  International Application to Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A13_1",
+                "text": "  Any designated Office may ask the International Bureau to transmit to it \na copy of the international application prior to the communication provided for \nin Article 20, and the International Bureau shall transmit such copy to the \ndesignated Office as soon as possible after the expiration of one year from the \npriority date. "
+            },
+            {
+                "id": "WIPO_A13_2_a",
+                "text": "  The applicant may, at any time, transmit a copy of his international \napplication to any designated Office. "
+            },
+            {
+                "id": "WIPO_A13_2_b",
+                "text": "  The applicant may, at any time, ask the International Bureau to \ntransmit a copy of his international application to any designated Office, and the \nInternational Bureau shall transmit such copy to the designated Office as soon \nas possible. "
+            },
+            {
+                "id": "WIPO_A13_2_c",
+                "text": "  Any national Office may notify the International Bureau that it does \nnot wish to receive copies as provided for in subparagraph (b), in which case \nthat subparagraph shall not be applicable in respect of that Office. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A14",
+        "title": "Article 14 Certain Defects in the International Application",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A14_1_a",
+                "text": "  The receiving Office shall check whether the international application \ncontains any of the following defects, that is to say: \n "
+            },
+            {
+                "id": "WIPO_A14_1_a_i",
+                "text": " it is not signed as provided in the Regulations; \n "
+            },
+            {
+                "id": "WIPO_A14_1_a_ii",
+                "text": " it does not contain the prescribed indications concerning the \napplicant; \n "
+            },
+            {
+                "id": "WIPO_A14_1_a_iii",
+                "text": " it does not contain a title; \n "
+            },
+            {
+                "id": "WIPO_A14_1_a_iv",
+                "text": " it does not contain an abstract; \n "
+            },
+            {
+                "id": "WIPO_A14_1_a_v",
+                "text": " it does not comply to the extent provided in the Regulations with \nthe prescribed physical requirements. "
+            },
+            {
+                "id": "WIPO_A14_1_b",
+                "text": "  If the receiving Office finds any of the said defects, it shall invite the \napplicant to correct the international application within the prescribed time \nlimit, failing which that application shall be considered withdrawn and the \nreceiving Office shall so declare. "
+            },
+            {
+                "id": "WIPO_A14_2",
+                "text": "  If the international application refers to drawings which, in fact, are not \nincluded in that application, the receiving Office shall notify the applicant \naccordingly and he may furnish them within the prescribed time limit and, if he \ndoes, the international filing date shall be the date on which the drawings are \nreceived by the receiving Office.  Otherwise, any reference to the said drawings \nshall be considered non-existent. "
+            },
+            {
+                "id": "WIPO_A14_3_a",
+                "text": "  If the receiving Office finds that, within the prescribed time limits, \nthe fees prescribed under Article 3(4)(iv) have not been paid, or no fee \nprescribed under Article 4(2) has been paid in respect of any of the designated \nStates, the international application shall be considered withdrawn and the \nreceiving Office shall so declare. "
+            },
+            {
+                "id": "WIPO_A14_3_b",
+                "text": "  If the receiving Office finds that the fee prescribed under Article 4(2) \nhas been paid in respect of one or more (but less than all) designated States \nwithin the prescribed time limit, the designation of those States in respect of \nwhich it has not been paid within the prescribed time limit shall be considered \nwithdrawn and the receiving Office shall so declare. "
+            },
+            {
+                "id": "WIPO_A14_4",
+                "text": "  If, after having accorded an international filing date to the international \napplication, the receiving Office finds, within the prescribed time limit, that any \nof the requirements listed in items (i) to (iii) of Article 11(1) was not complied \nwith at that date, the said application shall be considered withdrawn and the \nreceiving Office shall so declare. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A15",
+        "title": "Article 15 The International Search",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A15_1",
+                "text": "  Each international application shall be the subject of international \nsearch. "
+            },
+            {
+                "id": "WIPO_A15_2",
+                "text": "  The objective of the international search is to discover relevant prior art. "
+            },
+            {
+                "id": "WIPO_A15_3",
+                "text": "  International search shall be made on the basis of the claims, with due \nregard to the description and the drawings (if any). "
+            },
+            {
+                "id": "WIPO_A15_4",
+                "text": "  The International Searching Authority referred to in Article 16 shall \nendeavor to discover as much of the relevant prior art as its facilities permit, and \nshall, in any case, consult the documentation specified in the Regulations. "
+            },
+            {
+                "id": "WIPO_A15_5_a",
+                "text": "  If the national law of the Contracting State so permits, the applicant \nwho files a national application with the national Office of or acting for such \nState may, subject to the conditions provided for in such law, request that a \nsearch similar to an international search (“international-type search”) be carried \nout on such application. "
+            },
+            {
+                "id": "WIPO_A15_5_b",
+                "text": "  If the national law of the Contracting State so permits, the national \nOffice of or acting for such State may subject any national application filed with \nit to an international-type search. "
+            },
+            {
+                "id": "WIPO_A15_5_c",
+                "text": "  The international-type search shall be carried out by the International \nSearching Authority referred to in Article 16 which would be competent for an \ninternational search if the national application were an international application \nand were filed with the Office referred to in subparagraphs (a) and (b).  If the \nnational application is in a language which the International Searching \nAuthority considers it is not equipped to handle, the international-type search \nshall be carried out on a translation prepared by the applicant in a language \nprescribed for international applications and which the International Searching \nAuthority has undertaken to accept for international applications.  The national \napplication and the translation, when required, shall be presented in the form \nprescribed for international applications. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A16",
+        "title": "Article 16 The International Searching Authority",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A16_1",
+                "text": "  International search shall be carried out by an International Searching \nAuthority, which may be either a national Office or an intergovernmental \norganization, such as the International Patent Institute, whose tasks include the \nestablishing of documentary search reports on prior art with respect to \ninventions which are the subject of applications. "
+            },
+            {
+                "id": "WIPO_A16_2",
+                "text": "  If, pending the establishment of a single International Searching \nAuthority, there are several International Searching Authorities, each receiving \nOffice shall, in accordance with the provisions of the applicable agreement \nreferred to in paragraph (3)(b), specify the International Searching Authority or \nAuthorities competent for the searching of international applications filed with \nsuch Office. "
+            },
+            {
+                "id": "WIPO_A16_3_a",
+                "text": "  International Searching Authorities shall be appointed by the \nAssembly.  Any national Office and any intergovernmental organization \nsatisfying the requirements referred to in subparagraph (c) may be appointed as \nInternational Searching Authority. "
+            },
+            {
+                "id": "WIPO_A16_3_b",
+                "text": "  Appointment shall be conditional on the consent of the national \nOffice or intergovernmental organization to be appointed and the conclusion of \nan agreement, subject to approval by the Assembly, between such Office or \norganization and the International Bureau.  The agreement shall specify the \nrights and obligations of the parties, in particular, the formal undertaking by the \nsaid Office or organization to apply and observe all the common rules of \ninternational search. "
+            },
+            {
+                "id": "WIPO_A16_3_c",
+                "text": "  The Regulations prescribe the minimum requirements, particularly as \nto manpower and documentation, which any Office or organization must satisfy \nbefore it can be appointed and must continue to satisfy while it remains \nappointed. "
+            },
+            {
+                "id": "WIPO_A16_3_d",
+                "text": "  Appointment shall be for a fixed period of time and may be extended \nfor further periods. "
+            },
+            {
+                "id": "WIPO_A16_3_e",
+                "text": "  Before the Assembly makes a decision on the appointment of any \nnational Office or intergovernmental organization, or on the extension of its \nappointment, or before it allows any such appointment to lapse, the Assembly \nshall hear the interested Office or organization and seek the advice of the \nCommittee for Technical Cooperation referred to in Article 56 once that \nCommittee has been established. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A17",
+        "title": "Article 17 Procedure before the International Searching Authority",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A17_1",
+                "text": "  Procedure before the International Searching Authority shall be \ngoverned by the provisions of this Treaty, the Regulations, and the agreement \nwhich the International Bureau shall conclude, subject to this Treaty and the \nRegulations, with the said Authority. "
+            },
+            {
+                "id": "WIPO_A17_2_a",
+                "text": "  If the International Searching Authority considers \n "
+            },
+            {
+                "id": "WIPO_A17_2_a_i",
+                "text": " that the international application relates to a subject matter which \nthe International Searching Authority is not required, under the \nRegulations, to search, and in the particular case decides not to \nsearch, or \n "
+            },
+            {
+                "id": "WIPO_A17_2_a_ii",
+                "text": " that the description, the claims, or the drawings, fail to comply \nwith the prescribed requirements to such an extent that a \nmeaningful search could not be carried out, \nthe said Authority shall so declare and shall notify the applicant and the \nInternational Bureau that no international search report will be established. "
+            },
+            {
+                "id": "WIPO_A17_2_b",
+                "text": "  If any of the situations referred to in subparagraph (a) is found to \nexist in connection with certain claims only, the international search report shall \nso indicate in respect of such claims, whereas, for the other claims, the said \nreport shall be established as provided in Article 18. "
+            },
+            {
+                "id": "WIPO_A17_3_a",
+                "text": "  If the International Searching Authority considers that the \ninternational application does not comply with the requirement of unity of \ninvention as set forth in the Regulations, it shall invite the applicant to pay \nadditional fees.  The International Searching Authority shall establish the \ninternational search report on those parts of the international application which \nrelate to the invention first mentioned in the claims (“main invention”) and, \nprovided the required additional fees have been paid within the prescribed time \nlimit, on those parts of the international application which relate to inventions in \nrespect of which the said fees were paid. "
+            },
+            {
+                "id": "WIPO_A17_3_b",
+                "text": "  The national law of any designated State may provide that, where the \nnational Office of that State finds the invitation, referred to in subparagraph (a), \nof the International Searching Authority justified and where the applicant has \nnot paid all additional fees, those parts of the international application which \nconsequently have not been searched shall, as far as effects in that State are \nconcerned, be considered withdrawn unless a special fee is paid by the applicant \nto the national Office of that State. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A18",
+        "title": "Article 18 The International Search Report",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A18_1",
+                "text": "  The international search report shall be established within the prescribed \ntime limit and in the prescribed form. "
+            },
+            {
+                "id": "WIPO_A18_2",
+                "text": "  The international search report shall, as soon as it has been established, \nbe transmitted by the International Searching Authority to the applicant and the \nInternational Bureau. "
+            },
+            {
+                "id": "WIPO_A18_3",
+                "text": "  The international search report or the declaration referred to in \nArticle 17(2)(a) shall be translated as provided in the Regulations.  The \ntranslations shall be prepared by or under the responsibility of the International \nBureau. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A19",
+        "title": "Article 19 Amendment of the Claims before the International Bureau",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A19_1",
+                "text": "  The applicant shall, after having received the international search report, \nbe entitled to one opportunity to amend the claims of the international \napplication by filing amendments with the International Bureau within the \nprescribed time limit.  He may, at the same time, file a brief statement, as \nprovided in the Regulations, explaining the amendments and indicating any \nimpact that such amendments might have on the description and the drawings. "
+            },
+            {
+                "id": "WIPO_A19_2",
+                "text": "  The amendments shall not go beyond the disclosure in the international \napplication as filed. "
+            },
+            {
+                "id": "WIPO_A19_3",
+                "text": "  If the national law of any designated State permits amendments to go \nbeyond the said disclosure, failure to comply with paragraph (2) shall have no \nconsequence in that State. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A20",
+        "title": "Article 20 Communication to Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A20_1_a",
+                "text": "  The international application, together with the international search \nreport (including any indication referred to in Article 17(2)(b)) or the \ndeclaration referred to in Article 17(2)(a), shall be communicated to each \ndesignated Office, as provided in the Regulations, unless the designated Office \nwaives such requirement in its entirety or in part. "
+            },
+            {
+                "id": "WIPO_A20_1_b",
+                "text": "  The communication shall include the translation (as prescribed) of \nthe said report or declaration. "
+            },
+            {
+                "id": "WIPO_A20_2",
+                "text": "  If the claims have been amended by virtue of Article 19(1), the \ncommunication shall either contain the full text of the claims both as filed and \nas amended or shall contain the full text of the claims as filed and specify the \namendments, and shall include the statement, if any, referred to in Article 19(1). "
+            },
+            {
+                "id": "WIPO_A20_3",
+                "text": "  At the request of the designated Office or the applicant, the International \nSearching Authority shall send to the said Office or the applicant, respectively, \ncopies of the documents cited in the international search report, as provided in \nthe Regulations. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A21",
+        "title": "Article 21 International Publication",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A21_1",
+                "text": "  The International Bureau shall publish international applications. "
+            },
+            {
+                "id": "WIPO_A21_2_a",
+                "text": "  Subject to the exceptions provided for in subparagraph (b) and in \nArticle 64(3), the international publication of the international application shall \nbe effected promptly after the expiration of 18 months from the priority date of \nthat application. "
+            },
+            {
+                "id": "WIPO_A21_2_b",
+                "text": "  The applicant may ask the International Bureau to publish his \ninternational application any time before the expiration of the time limit referred \nto in subparagraph (a).  The International Bureau shall proceed accordingly, as \nprovided in the Regulations. "
+            },
+            {
+                "id": "WIPO_A21_3",
+                "text": "  The international search report or the declaration referred to in \nArticle 17(2)(a) shall be published as prescribed in the Regulations. "
+            },
+            {
+                "id": "WIPO_A21_4",
+                "text": "  The language and form of the international publication and other details \nare governed by the Regulations. "
+            },
+            {
+                "id": "WIPO_A21_5",
+                "text": "  There shall be no international publication if the international \napplication is withdrawn or is considered withdrawn before the technical \npreparations for publication have been completed. "
+            },
+            {
+                "id": "WIPO_A21_6",
+                "text": "  If the international application contains expressions or drawings which, \nin the opinion of the International Bureau, are contrary to morality or public \norder, or if, in its opinion, the international application contains disparaging \nstatements as defined in the Regulations, it may omit such expressions, \ndrawings, and statements, from its publications, indicating the place and number \nof words or drawings omitted, and furnishing, upon request, individual copies \nof the passages omitted. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A22",
+        "title": "Article 22 Copy, Translation, and Fee, to Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A22_1",
+                "text": "  The applicant shall furnish a copy of the international application \n(unless the communication provided for in Article 20 has already taken place) \nand a translation thereof (as prescribed), and pay the national fee (if any), to  each designated Office not later than at the expiration of 301 months from the \npriority date.  Where the national law of the designated State requires the \nindication of the name of and other prescribed data concerning the inventor but \nallows that these indications be furnished at a time later than that of the filing of \na national application, the applicant shall, unless they were contained in the \nrequest, furnish the said indications to the national Office of or acting for the \nState not later than at the expiration of 301 months from the priority date. \n"
+            },
+            {
+                "id": "WIPO_A22_2",
+                "text": "  Where the International Searching Authority makes a declaration, under \nArticle 17(2)(a), that no international search report will be established, the time \nlimit for performing the acts referred to in paragraph (1) of this Article shall be \nthe same as that provided for in paragraph (1). "
+            },
+            {
+                "id": "WIPO_A22_3",
+                "text": "  Any national law may, for performing the acts referred to in \nparagraphs (1) or (2), fix time limits which expire later than the time limit \nprovided for in those paragraphs. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A23",
+        "title": "Article 23 Delaying of National Procedure",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A23_1",
+                "text": "  No designated Office shall process or examine the international \napplication prior to the expiration of the applicable time limit under Article 22. "
+            },
+            {
+                "id": "WIPO_A23_2",
+                "text": "  Notwithstanding the provisions of paragraph (1), any designated Office \nmay, on the express request of the applicant, process or examine the \ninternational application at any time. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A24",
+        "title": "Article 24 Possible Loss of Effect in Designated States",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A24_1",
+                "text": "  Subject, in case (ii) below, to the provisions of Article 25, the effect of \nthe international application provided for in Article 11(3) shall cease in any \ndesignated State with the same consequences as the withdrawal of any national \napplication in that State: \n "
+            },
+            {
+                "id": "WIPO_A24_1_i",
+                "text": " if the applicant withdraws his international application or the \ndesignation of that State; "
+            },
+            {
+                "id": "WIPO_A24_1_ii",
+                "text": " if the international application is considered withdrawn by virtue of \nArticles 12(3), 14(1)(b), 14(3)(a), or 14(4), or if the designation of that State is \nconsidered withdrawn by virtue of Article 14(3)(b); \n "
+            },
+            {
+                "id": "WIPO_A24_1_iii",
+                "text": " if the applicant fails to perform the acts referred to in Article 22 \nwithin the applicable time limit. "
+            },
+            {
+                "id": "WIPO_A24_2",
+                "text": "  Notwithstanding the provisions of paragraph (1), any designated Office \nmay maintain the effect provided for in Article 11(3) even where such effect is \nnot required to be maintained by virtue of Article 25(2). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A25",
+        "title": "Article 25 Review by Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A25_1_a",
+                "text": "  Where the receiving Office has refused to accord an international \nfiling date or has declared that the international application is considered \nwithdrawn, or where the International Bureau has made a finding under \nArticle 12(3), the International Bureau shall promptly send, at the request of the \napplicant, copies of any document in the file to any of the designated Offices \nnamed by the applicant. "
+            },
+            {
+                "id": "WIPO_A25_1_b",
+                "text": "  Where the receiving Office has declared that the designation of any \ngiven State is considered withdrawn, the International Bureau shall promptly \nsend, at the request of the applicant, copies of any document in the file to the \nnational Office of such State. "
+            },
+            {
+                "id": "WIPO_A25_1_c",
+                "text": "  The request under subparagraphs (a) or (b) shall be presented within \nthe prescribed time limit. "
+            },
+            {
+                "id": "WIPO_A25_2_a",
+                "text": "  Subject to the provisions of subparagraph (b), each designated Office \nshall, provided that the national fee (if any) has been paid and the appropriate \ntranslation (as prescribed) has been furnished within the prescribed time limit, \ndecide whether the refusal, declaration, or finding, referred to in paragraph (1) \nwas justified under the provisions of this Treaty and the Regulations, and, if it \nfinds that the refusal or declaration was the result of an error or omission on the \npart of the receiving Office or that the finding was the result of an error or \nomission on the part of the International Bureau, it shall, as far as effects in the \nState of the designated Office are concerned, treat the international application \nas if such error or omission had not occurred. "
+            },
+            {
+                "id": "WIPO_A25_2_b",
+                "text": "  Where the record copy has reached the International Bureau after the \nexpiration of the time limit prescribed under Article 12(3) on account of any \nerror or omission on the part of the applicant, the provisions of subparagraph (a) \nshall apply only under the circumstances referred to in Article 48(2). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A26",
+        "title": "Article 26 Opportunity to Correct before Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A26_pre",
+                "text": " \nNo designated Office shall reject an international application on the grounds \nof non-compliance with the requirements of this Treaty and the Regulations \nwithout first giving the applicant the opportunity to correct the said application \nto the extent and according to the procedure provided by the national law for the \nsame or comparable situations in respect of national applications. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A27",
+        "title": "Article 27 National Requirements",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A27_1",
+                "text": "  No national law shall require compliance with requirements relating to \nthe form or contents of the international application different from or additional \nto those which are provided for in this Treaty and the Regulations. "
+            },
+            {
+                "id": "WIPO_A27_2",
+                "text": "  The provisions of paragraph (1) neither affect the application of the \nprovisions of Article 7(2) nor preclude any national law from requiring, once \nthe processing of the international application has started in the designated \nOffice, the furnishing: \n "
+            },
+            {
+                "id": "WIPO_A27_2_i",
+                "text": " when the applicant is a legal entity, of the name of an officer entitled \nto represent such legal entity, \n "
+            },
+            {
+                "id": "WIPO_A27_2_ii",
+                "text": " of documents not part of the international application but which \nconstitute proof of allegations or statements made in that application, including \nthe confirmation of the international application by the signature of the \napplicant when that application, as filed, was signed by his representative or \nagent. "
+            },
+            {
+                "id": "WIPO_A27_3",
+                "text": "  Where the applicant, for the purposes of any designated State, is not \nqualified according to the national law of that State to file a national application \nbecause he is not the inventor, the international application may be rejected by \nthe designated Office. "
+            },
+            {
+                "id": "WIPO_A27_4",
+                "text": "  Where the national law provides, in respect of the form or contents of \nnational applications, for requirements which, from the viewpoint of applicants, \nare more favorable than the requirements provided for by this Treaty and the \nRegulations in respect of international applications, the national Office, the \ncourts and any other competent organs of or acting for the designated State may \napply the former requirements, instead of the latter requirements, to \ninternational applications, except where the applicant insists that the \nrequirements provided for by this Treaty and the Regulations be applied to his \ninternational application. "
+            },
+            {
+                "id": "WIPO_A27_5",
+                "text": "  Nothing in this Treaty and the Regulations is intended to be construed \nas prescribing anything that would limit the freedom of each Contracting State \nto prescribe such substantive conditions of patentability as it desires.  In \nparticular, any provision in this Treaty and the Regulations concerning the \ndefinition of prior art is exclusively for the purposes of the international \nprocedure and, consequently, any Contracting State is free to apply, when \ndetermining the patentability of an invention claimed in an international \napplication, the criteria of its national law in respect of prior art and other \nconditions of patentability not constituting requirements as to the form and \ncontents of applications. "
+            },
+            {
+                "id": "WIPO_A27_6",
+                "text": "  The national law may require that the applicant furnish evidence in \nrespect of any substantive condition of patentability prescribed by such law. "
+            },
+            {
+                "id": "WIPO_A27_7",
+                "text": "  Any receiving Office or, once the processing of the international \napplication has started in the designated Office, that Office may apply the \nnational law as far as it relates to any requirement that the applicant be \nrepresented by an agent having the right to represent applicants before the said \nOffice and/or that the applicant have an address in the designated State for the \npurpose of receiving notifications. "
+            },
+            {
+                "id": "WIPO_A27_8",
+                "text": "  Nothing in this Treaty and the Regulations is intended to be construed \nas limiting the freedom of any Contracting State to apply measures deemed \nnecessary for the preservation of its national security or to limit, for the \nprotection of the general economic interests of that State, the right of its own \nresidents or nationals to file international applications. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A28",
+        "title": "Article 28 Amendment of the Claims, the Description,  and the Drawings, before Designated Offices",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A28_1",
+                "text": "  The applicant shall be given the opportunity to amend the claims, the \ndescription, and the drawings, before each designated Office within the \nprescribed time limit.  No designated Office shall grant a patent, or refuse the \ngrant of a patent, before such time limit has expired except with the express \nconsent of the applicant. "
+            },
+            {
+                "id": "WIPO_A28_2",
+                "text": "  The amendments shall not go beyond the disclosure in the international \napplication as filed unless the national law of the designated State permits them \nto go beyond the said disclosure. "
+            },
+            {
+                "id": "WIPO_A28_3",
+                "text": "  The amendments shall be in accordance with the national law of the \ndesignated State in all respects not provided for in this Treaty and the \nRegulations. "
+            },
+            {
+                "id": "WIPO_A28_4",
+                "text": "  Where the designated Office requires a translation of the international \napplication, the amendments shall be in the language of the translation. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A29",
+        "title": "Article 29 Effects of the International Publication",
+        "chapter": "CHAPTER I INTERNATIONAL APPLICATION AND INTERNATIONAL SEARCH",
+        "content": [
+            {
+                "id": "WIPO_A29_1",
+                "text": "  As far as the protection of any rights of the applicant in a designated \nState is concerned, the effects, in that State, of the international publication of \nan international application shall, subject to the provisions of paragraphs (2) \nto (4), be the same as those which the national law of the designated State \nprovides for the compulsory national publication of unexamined national \napplications as such. "
+            },
+            {
+                "id": "WIPO_A29_2",
+                "text": "  If the language in which the international publication has been effected \nis different from the language in which publications under the national law are \neffected in the designated State, the said national law may provide that the \neffects provided for in paragraph (1) shall be applicable only from such time as: \n "
+            },
+            {
+                "id": "WIPO_A29_2_i",
+                "text": " a translation into the latter language has been published as provided \nby the national law, or \n "
+            },
+            {
+                "id": "WIPO_A29_2_ii",
+                "text": " a translation into the latter language has been made available to the \npublic, by laying open for public inspection as provided by the national law, or \n "
+            },
+            {
+                "id": "WIPO_A29_2_iii",
+                "text": " a translation into the latter language has been transmitted by the \napplicant to the actual or prospective unauthorized user of the invention claimed \nin the international application, or \n "
+            },
+            {
+                "id": "WIPO_A29_2_iv",
+                "text": " both the acts described in (i) and (iii), or both the acts described \nin (ii) and (iii), have taken place. "
+            },
+            {
+                "id": "WIPO_A29_3",
+                "text": "  The national law of any designated State may provide that, where the \ninternational publication has been effected, on the request of the applicant, \nbefore the expiration of 18 months from the priority date, the effects provided \nfor in paragraph (1) shall be applicable only from the expiration of 18 months \nfrom the priority date. "
+            },
+            {
+                "id": "WIPO_A29_4",
+                "text": "  The national law of any designated State may provide that the effects \nprovided for in paragraph (1) shall be applicable only from the date on which a \ncopy of the international application as published under Article 21 has been \nreceived in the national Office of or acting for such State.  The said Office shall \npublish the date of receipt in its gazette as soon as possible. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A30",
+        "title": "Article 30 Confidential Nature of the International Application",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A30_1_a",
+                "text": "  Subject to the provisions of subparagraph (b), the International \nBureau and the International Searching Authorities shall not allow access by \nany person or authority to the international application before the international \npublication of that application, unless requested or authorized by the applicant. "
+            },
+            {
+                "id": "WIPO_A30_1_b",
+                "text": "  The provisions of subparagraph (a) shall not apply to any transmittal \nto the competent International Searching Authority, to transmittals provided for \nunder Article 13, and to communications provided for under Article 20. "
+            },
+            {
+                "id": "WIPO_A30_2_a",
+                "text": "  No national Office shall allow access to the international application \nby third parties, unless requested or authorized by the applicant, before the \nearliest of the following dates: \n "
+            },
+            {
+                "id": "WIPO_A30_2_a_i",
+                "text": " date of the international publication of the international \napplication, \n "
+            },
+            {
+                "id": "WIPO_A30_2_a_ii",
+                "text": " date of the receipt of the communication of the international \napplication under Article 20, \n "
+            },
+            {
+                "id": "WIPO_A30_2_a_iii",
+                "text": " date of the receipt of a copy of the international application under \nArticle 22. "
+            },
+            {
+                "id": "WIPO_A30_2_b",
+                "text": "  The provisions of subparagraph (a) shall not prevent any national \nOffice from informing third parties that it has been designated, or from \npublishing that fact.  Such information or publication may, however, contain \nonly the following data:  identification of the receiving Office, name of the \napplicant, international filing date, international application number, and title of \nthe invention. "
+            },
+            {
+                "id": "WIPO_A30_2_c",
+                "text": "  The provisions of subparagraph (a) shall not prevent any designated \nOffice from allowing access to the international application for the purposes of \nthe judicial authorities. "
+            },
+            {
+                "id": "WIPO_A30_3",
+                "text": "  The provisions of paragraph (2)(a) shall apply to any receiving Office \nexcept as far as transmittals provided for under Article 12(1) are concerned. "
+            },
+            {
+                "id": "WIPO_A30_4",
+                "text": "  For the purposes of this Article, the term “access” covers any means by \nwhich \nthird \nparties \nmay \nacquire \ncognizance, \nincluding \nindividual \ncommunication and general publication, provided, however, that no national \nOffice shall generally publish an international application or its translation \nbefore the international publication or, if international publication has not taken \nplace by the expiration of 20 months from the priority date, before the \nexpiration of 20 months from the said priority date. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A31",
+        "title": "Article 31 Demand for International Preliminary Examination",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A31_1",
+                "text": "  On the demand of the applicant, his international application shall be the \nsubject of an international preliminary examination as provided in the following \nprovisions and the Regulations. "
+            },
+            {
+                "id": "WIPO_A31_2_a",
+                "text": "  Any applicant who is a resident or national, as defined in the \nRegulations, of a Contracting State bound by Chapter II, and whose \ninternational application has been filed with the receiving Office of or acting for \nsuch State, may make a demand for international preliminary examination. "
+            },
+            {
+                "id": "WIPO_A31_2_b",
+                "text": "  The Assembly may decide to allow persons entitled to file \ninternational applications to make a demand for international preliminary \nexamination even if they are residents or nationals of a State not party to this \nTreaty or not bound by Chapter II. "
+            },
+            {
+                "id": "WIPO_A31_3",
+                "text": "  The demand for international preliminary examination shall be made \nseparately from the international application.  The demand shall contain the \nprescribed particulars and shall be in the prescribed language and form. "
+            },
+            {
+                "id": "WIPO_A31_4_a",
+                "text": "  The demand shall indicate the Contracting State or States in which \nthe applicant intends to use the results of the international preliminary \nexamination (“elected States”).  Additional Contracting States may be elected \nlater.  Election may relate only to Contracting States already designated under \nArticle 4. "
+            },
+            {
+                "id": "WIPO_A31_4_b",
+                "text": "  Applicants referred to in paragraph (2)(a) may elect any Contracting \nState bound by Chapter II.  Applicants referred to in paragraph (2)(b) may elect \nonly such Contracting States bound by Chapter II as have declared that they are \nprepared to be elected by such applicants. "
+            },
+            {
+                "id": "WIPO_A31_5",
+                "text": "  The demand shall be subject to the payment of the prescribed fees \nwithin the prescribed time limit. "
+            },
+            {
+                "id": "WIPO_A31_6_a",
+                "text": "  The demand shall be submitted to the competent International \nPreliminary Examining Authority referred to in Article 32. "
+            },
+            {
+                "id": "WIPO_A31_6_b",
+                "text": "  Any later election shall be submitted to the International Bureau. "
+            },
+            {
+                "id": "WIPO_A31_7",
+                "text": "  Each elected Office shall be notified of its election. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A32",
+        "title": "Article 32 The International Preliminary Examining Authority",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A32_1",
+                "text": "  International preliminary examination shall be carried out by the \nInternational Preliminary Examining Authority. "
+            },
+            {
+                "id": "WIPO_A32_2",
+                "text": "  In the case of demands referred to in Article 31(2)(a), the receiving \nOffice, and, in the case of demands referred to in Article 31(2)(b), the \nAssembly, shall, in accordance with the applicable agreement between the \ninterested International Preliminary Examining Authority or Authorities and the \nInternational Bureau, specify the International Preliminary Examining Authority \nor Authorities competent for the preliminary examination. "
+            },
+            {
+                "id": "WIPO_A32_3",
+                "text": "  The provisions of Article 16(3) shall apply, mutatis mutandis, in respect \nof International Preliminary Examining Authorities. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A33",
+        "title": "Article 33 The International Preliminary Examination",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A33_1",
+                "text": "  The objective of the international preliminary examination is to \nformulate a preliminary and non-binding opinion on the questions whether the \nclaimed invention appears to be novel, to involve an inventive step (to be \nnon-obvious), and to be industrially applicable. "
+            },
+            {
+                "id": "WIPO_A33_2",
+                "text": "  For the purposes of the international preliminary examination, a claimed \ninvention shall be considered novel if it is not anticipated by the prior art as \ndefined in the Regulations. "
+            },
+            {
+                "id": "WIPO_A33_3",
+                "text": "  For the purposes of the international preliminary examination, a claimed \ninvention shall be considered to involve an inventive step if, having regard to \nthe prior art as defined in the Regulations, it is not, at the prescribed relevant \ndate, obvious to a person skilled in the art. "
+            },
+            {
+                "id": "WIPO_A33_4",
+                "text": "  For the purposes of the international preliminary examination, a claimed \ninvention shall be considered industrially applicable if, according to its nature, \nit can be made or used (in the technological sense) in any kind of industry.  \n“Industry” shall be understood in its broadest sense, as in the Paris Convention \nfor the Protection of Industrial Property. "
+            },
+            {
+                "id": "WIPO_A33_5",
+                "text": "  The criteria described above merely serve the purposes of international \npreliminary examination.  Any Contracting State may apply additional or \ndifferent criteria for the purpose of deciding whether, in that State, the claimed \ninvention is patentable or not. "
+            },
+            {
+                "id": "WIPO_A33_6",
+                "text": "  The international preliminary examination shall take into consideration \nall the documents cited in the international search report.  It may take into  consideration any additional documents considered to be relevant in the \nparticular case. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A34",
+        "title": "Article 34 Procedure before the International Preliminary Examining Authority",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A34_1",
+                "text": "  Procedure before the International Preliminary Examining Authority \nshall be governed by the provisions of this Treaty, the Regulations, and the \nagreement which the International Bureau shall conclude, subject to this Treaty \nand the Regulations, with the said Authority. "
+            },
+            {
+                "id": "WIPO_A34_2_a",
+                "text": "  The applicant shall have a right to communicate orally and in writing \nwith the International Preliminary Examining Authority. "
+            },
+            {
+                "id": "WIPO_A34_2_b",
+                "text": "  The applicant shall have a right to amend the claims, the description, \nand the drawings, in the prescribed manner and within the prescribed time limit, \nbefore the international preliminary examination report is established.  The \namendment shall not go beyond the disclosure in the international application as \nfiled. "
+            },
+            {
+                "id": "WIPO_A34_2_c",
+                "text": "  The applicant shall receive at least one written opinion from the \nInternational Preliminary Examining Authority unless such Authority considers \nthat all of the following conditions are fulfilled: \n "
+            },
+            {
+                "id": "WIPO_A34_2_c_i",
+                "text": " the invention satisfies the criteria set forth in Article 33(1), \n "
+            },
+            {
+                "id": "WIPO_A34_2_c_ii",
+                "text": " the international application complies with the requirements of \nthis Treaty and the Regulations in so far as checked by that Authority, \n "
+            },
+            {
+                "id": "WIPO_A34_2_c_iii",
+                "text": " no observations are intended to be made under Article 35(2), last \nsentence. "
+            },
+            {
+                "id": "WIPO_A34_2_d",
+                "text": "  The applicant may respond to the written opinion. "
+            },
+            {
+                "id": "WIPO_A34_3_a",
+                "text": "  If the International Preliminary Examining Authority considers that \nthe international application does not comply with the requirement of unity of \ninvention as set forth in the Regulations, it may invite the applicant, at his \noption, to restrict the claims so as to comply with the requirement or to pay \nadditional fees. "
+            },
+            {
+                "id": "WIPO_A34_3_b",
+                "text": "  The national law of any elected State may provide that, where the \napplicant chooses to restrict the claims under subparagraph (a), those parts of \nthe international application which, as a consequence of the restriction, are not \nto be the subject of international preliminary examination shall, as far as effects \nin that State are concerned, be considered withdrawn unless a special fee is paid \nby the applicant to the national Office of that State. "
+            },
+            {
+                "id": "WIPO_A34_3_c",
+                "text": "  If the applicant does not comply with the invitation referred to in \nsubparagraph (a) within the prescribed time limit, the International Preliminary \nExamining Authority shall establish an international preliminary examination \nreport on those parts of the international application which relate to what \nappears to be the main invention and shall indicate the relevant facts in the said \nreport.  The national law of any elected State may provide that, where its \nnational Office finds the invitation of the International Preliminary Examining \nAuthority justified, those parts of the international application which do not \nrelate to the main invention shall, as far as effects in that State are concerned, be \nconsidered withdrawn unless a special fee is paid by the applicant to that Office. "
+            },
+            {
+                "id": "WIPO_A34_4_a",
+                "text": "  If the International Preliminary Examining Authority considers \n "
+            },
+            {
+                "id": "WIPO_A34_4_a_i",
+                "text": " that the international application relates to a subject matter on \nwhich the International Preliminary Examining Authority is not \nrequired, under the Regulations, to carry out an international \npreliminary examination, and in the particular case decides not to \ncarry out such examination, or \n "
+            },
+            {
+                "id": "WIPO_A34_4_a_ii",
+                "text": " that the description, the claims, or the drawings, are so unclear, or \nthe claims are so inadequately supported by the description, that \nno meaningful opinion can be formed on the novelty, inventive \nstep (non-obviousness), or industrial applicability, of the claimed \ninvention, \nthe said Authority shall not go into the questions referred to in Article 33(1) and \nshall inform the applicant of this opinion and the reasons therefor. "
+            },
+            {
+                "id": "WIPO_A34_4_b",
+                "text": "  If any of the situations referred to in subparagraph (a) is found to \nexist in, or in connection with, certain claims only, the provisions of that \nsubparagraph shall apply only to the said claims. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A35",
+        "title": "Article 35 The International Preliminary Examination Report",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A35_1",
+                "text": "  The international preliminary examination report shall be established \nwithin the prescribed time limit and in the prescribed form. "
+            },
+            {
+                "id": "WIPO_A35_2",
+                "text": "  The international preliminary examination report shall not contain any \nstatement on the question whether the claimed invention is or seems to be \npatentable or unpatentable according to any national law.  It shall state, subject \nto the provisions of paragraph (3), in relation to each claim, whether the claim \nappears to satisfy the criteria of novelty, inventive step (non-obviousness), and \nindustrial applicability, as defined for the purposes of the international \npreliminary examination in Article 33(1) to (4).  The statement shall be \naccompanied by the citation of the documents believed to support the stated  conclusion with such explanations as the circumstances of the case may require.  \nThe statement shall also be accompanied by such other observations as the \nRegulations provide for. \n"
+            },
+            {
+                "id": "WIPO_A35_3_a",
+                "text": "  If, at the time of establishing the international preliminary \nexamination report, the International Preliminary Examining Authority \nconsiders that any of the situations referred to in Article 34(4)(a) exists, that \nreport shall state this opinion and the reasons therefor.  It shall not contain any \nstatement as provided in paragraph (2). "
+            },
+            {
+                "id": "WIPO_A35_3_b",
+                "text": "  If a situation under Article 34(4)(b) is found to exist, the international \npreliminary examination report shall, in relation to the claims in question, \ncontain the statement as provided in subparagraph (a), whereas, in relation to \nthe other claims, it shall contain the statement as provided in paragraph (2). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A36",
+        "title": "Article 36 Transmittal, Translation, and Communication,  of the International Preliminary Examination Report",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A36_1",
+                "text": "  The international preliminary examination report, together with the \nprescribed annexes, shall be transmitted to the applicant and to the International \nBureau. "
+            },
+            {
+                "id": "WIPO_A36_2_a",
+                "text": "  The international preliminary examination report and its annexes \nshall be translated into the prescribed languages. "
+            },
+            {
+                "id": "WIPO_A36_2_b",
+                "text": "  Any translation of the said report shall be prepared by or under the \nresponsibility of the International Bureau, whereas any translation of the said \nannexes shall be prepared by the applicant. "
+            },
+            {
+                "id": "WIPO_A36_3_a",
+                "text": "  The international preliminary examination report, together with its \ntranslation (as prescribed) and its annexes (in the original language), shall be \ncommunicated by the International Bureau to each elected Office. "
+            },
+            {
+                "id": "WIPO_A36_3_b",
+                "text": "  The prescribed translation of the annexes shall be transmitted within \nthe prescribed time limit by the applicant to the elected Offices. "
+            },
+            {
+                "id": "WIPO_A36_4",
+                "text": "  The provisions of Article 20(3) shall apply, mutatis mutandis, to copies \nof any document which is cited in the international preliminary examination \nreport and which was not cited in the international search report. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A37",
+        "title": "Article 37 Withdrawal of Demand or Election",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A37_1",
+                "text": "  The applicant may withdraw any or all elections. "
+            },
+            {
+                "id": "WIPO_A37_2",
+                "text": "  If the election of all elected States is withdrawn, the demand shall be \nconsidered withdrawn. "
+            },
+            {
+                "id": "WIPO_A37_3_a",
+                "text": "  Any withdrawal shall be notified to the International Bureau. "
+            },
+            {
+                "id": "WIPO_A37_3_b",
+                "text": "  The elected Offices concerned and the International Preliminary \nExamining Authority concerned shall be notified accordingly by the \nInternational Bureau. "
+            },
+            {
+                "id": "WIPO_A37_4_a",
+                "text": "  Subject to the provisions of subparagraph (b), withdrawal of the \ndemand or of the election of a Contracting State shall, unless the national law of \nthat State provides otherwise, be considered to be withdrawal of the \ninternational application as far as that State is concerned. "
+            },
+            {
+                "id": "WIPO_A37_4_b",
+                "text": "  Withdrawal of the demand or of the election shall not be considered \nto be withdrawal of the international application if such withdrawal is effected \nprior to the expiration of the applicable time limit under Article 22;  however, \nany Contracting State may provide in its national law that the aforesaid shall \napply only if its national Office has received, within the said time limit, a copy \nof the international application, together with a translation (as prescribed), and \nthe national fee. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A38",
+        "title": "Article 38 Confidential Nature of the International Preliminary Examination",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A38_1",
+                "text": "  Neither the International Bureau nor the International Preliminary \nExamining Authority shall, unless requested or authorized by the applicant, \nallow access within the meaning, and with the proviso, of Article 30(4) to the \nfile of the international preliminary examination by any person or authority at \nany time, except by the elected Offices once the international preliminary \nexamination report has been established. "
+            },
+            {
+                "id": "WIPO_A38_2",
+                "text": "  Subject to the provisions of paragraph (1) and Articles 36(1) and (3) \nand 37(3)(b), neither the International Bureau nor the International Preliminary \nExamining Authority shall, unless requested or authorized by the applicant, give \ninformation on the issuance or nonissuance of an international preliminary \nexamination report and on the withdrawal or nonwithdrawal of the demand or of \nany election. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A39",
+        "title": "Article 39 Copy, Translation, and Fee, to Elected Offices",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A39_1_a",
+                "text": "  If the election of any Contracting State has been effected prior to the \nexpiration of the 19th month from the priority date, the provisions of Article 22 \nshall not apply to such State and the applicant shall furnish a copy of the  international application (unless the communication under Article 20 has \nalready taken place) and a translation thereof (as prescribed), and pay the \nnational fee (if any), to each elected Office not later than at the expiration of \n30 months from the priority date. \n"
+            },
+            {
+                "id": "WIPO_A39_1_b",
+                "text": "  Any national law may, for performing the acts referred to in \nsubparagraph (a), fix time limits which expire later than the time limit provided \nfor in that subparagraph. "
+            },
+            {
+                "id": "WIPO_A39_2",
+                "text": "  The effect provided for in Article 11(3) shall cease in the elected State \nwith the same consequences as the withdrawal of any national application in \nthat State if the applicant fails to perform the acts referred to in paragraph (1)(a) \nwithin the time limit applicable under paragraph (1)(a) or (b). "
+            },
+            {
+                "id": "WIPO_A39_3",
+                "text": "  Any elected Office may maintain the effect provided for in Article 11(3) \neven where the applicant does not comply with the requirements provided for in \nparagraph (1)(a) or (b). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A40",
+        "title": "Article 40 Delaying of National Examination and Other Processing",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A40_1",
+                "text": "  If the election of any Contracting State has been effected prior to the \nexpiration of the 19th month from the priority date, the provisions of Article 23 \nshall not apply to such State and the national Office of or acting for that State \nshall not proceed, subject to the provisions of paragraph (2), to the examination \nand other processing of the international application prior to the expiration of \nthe applicable time limit under Article 39. "
+            },
+            {
+                "id": "WIPO_A40_2",
+                "text": "  Notwithstanding the provisions of paragraph (1), any elected Office \nmay, on the express request of the applicant, proceed to the examination and \nother processing of the international application at any time. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A41",
+        "title": "Article 41 Amendment of the Claims, the Description, and the Drawings, before Elected Offices",
+        "chapter": "CHAPTER II INTERNATIONAL PRELIMINARY EXAMINATION",
+        "content": [
+            {
+                "id": "WIPO_A41_1",
+                "text": "  The applicant shall be given the opportunity to amend the claims, the \ndescription, and the drawings, before each elected Office within the prescribed \ntime limit.  No elected Office shall grant a patent, or refuse the grant of a patent, \nbefore such time limit has expired, except with the express consent of the \napplicant. "
+            },
+            {
+                "id": "WIPO_A41_2",
+                "text": "  The amendments shall not go beyond the disclosure in the international \napplication as filed, unless the national law of the elected State permits them to \ngo beyond the said disclosure. "
+            },
+            {
+                "id": "WIPO_A41_3",
+                "text": "  The amendments shall be in accordance with the national law of the \nelected State in all respects not provided for in this Treaty and the Regulations. "
+            },
+            {
+                "id": "WIPO_A41_4",
+                "text": "  Where an elected Office requires a translation of the international \napplication, the amendments shall be in the language of the translation. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A42",
+        "title": "Article 42 Results of National Examination in Elected Offices",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A42_pre",
+                "text": " \nNo elected Office receiving the international preliminary examination report \nmay require that the applicant furnish copies, or information on the contents, of \nany papers connected with the examination relating to the same international \napplication in any other elected Office. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A43",
+        "title": "Article 43 Seeking Certain Kinds of Protection",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A43_pre",
+                "text": " \nIn respect of any designated or elected State whose law provides for the \ngrant of inventors’ certificates, utility certificates, utility models, patents or \ncertificates of addition, inventors’ certificates of addition, or utility certificates \nof addition, the applicant may indicate, as prescribed in the Regulations, that his \ninternational application is for the grant, as far as that State is concerned, of an \ninventor’s certificate, a utility certificate, or a utility model, rather than a patent, \nor that it is for the grant of a patent or certificate of addition, an inventor’s \ncertificate of addition, or a utility certificate of addition, and the ensuing effect \nshall be governed by the applicant’s choice.  For the purposes of this Article \nand any Rule thereunder, Article 2(ii) shall not apply. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A44",
+        "title": "Article 44 Seeking Two Kinds of Protection",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A44_pre",
+                "text": " \nIn respect of any designated or elected State whose law permits an \napplication, while being for the grant of a patent or one of the other kinds of \nprotection referred to in Article 43, to be also for the grant of another of the said \nkinds of protection, the applicant may indicate, as prescribed in the Regulations, \nthe two kinds of protection he is seeking, and the ensuing effect shall be \ngoverned by the applicant’s indications.  For the purposes of this Article, \nArticle 2(ii) shall not apply. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A45",
+        "title": "Article 45 Regional Patent Treaties",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A45_1",
+                "text": "  Any treaty providing for the grant of regional patents (“regional patent \ntreaty”), and giving to all persons who, according to Article 9, are entitled to \nfile international applications the right to file applications for such patents, may \nprovide that international applications designating or electing a State party to \nboth the regional patent treaty and the present Treaty may be filed as \napplications for such patents. "
+            },
+            {
+                "id": "WIPO_A45_2",
+                "text": "  The national law of the said designated or elected State may provide that \nany designation or election of such State in the international application shall \nhave the effect of an indication of the wish to obtain a regional patent under the \nregional patent treaty. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A46",
+        "title": "Article 46 Incorrect Translation of the International Application",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A46_pre",
+                "text": " \nIf, because of an incorrect translation of the international application, the \nscope of any patent granted on that application exceeds the scope of the \ninternational application in its original language, the competent authorities of \nthe Contracting State concerned may accordingly and retroactively limit the \nscope of the patent, and declare it null and void to the extent that its scope has \nexceeded the scope of the international application in its original language. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A47",
+        "title": "Article 47 Time Limits",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A47_1",
+                "text": "  The details for computing time limits referred to in this Treaty are \ngoverned by the Regulations. "
+            },
+            {
+                "id": "WIPO_A47_2_a",
+                "text": "  All time limits fixed in Chapters I and II of this Treaty may, outside \nany revision under Article 60, be modified by a decision of the Contracting \nStates. "
+            },
+            {
+                "id": "WIPO_A47_2_b",
+                "text": "  Such decisions shall be made in the Assembly or through voting by \ncorrespondence and must be unanimous. "
+            },
+            {
+                "id": "WIPO_A47_2_c",
+                "text": "  The details of the procedure are governed by the Regulations. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A48",
+        "title": "Article 48 Delay in Meeting Certain Time Limits",
+        "chapter": "CHAPTER III COMMON PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A48_1",
+                "text": "  Where any time limit fixed in this Treaty or the Regulations is not met \nbecause of interruption in the mail service or unavoidable loss or delay in the  mail, the time limit shall be deemed to be met in the cases and subject to the \nproof and other conditions prescribed in the Regulations. \n"
+            },
+            {
+                "id": "WIPO_A48_2_a",
+                "text": "  Any Contracting State shall, as far as that State is concerned, excuse, \nfor reasons admitted under its national law, any delay in meeting any time limit. "
+            },
+            {
+                "id": "WIPO_A48_2_b",
+                "text": "  Any Contracting State may, as far as that State is concerned, excuse, \nfor reasons other than those referred to in subparagraph (a), any delay in \nmeeting any time limit. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A49",
+        "title": "Article 49 Right to Practice before International Authorities",
+        "chapter": "CHAPTER IV TECHNICAL SERVICES",
+        "content": [
+            {
+                "id": "WIPO_A49_pre",
+                "text": " \nAny attorney, patent agent, or other person, having the right to practice \nbefore the national Office with which the international application was filed, \nshall be entitled to practice before the International Bureau and the competent \nInternational Searching Authority and competent International Preliminary \nExamining Authority in respect of that application. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A50",
+        "title": "Article 50 Patent Information Services",
+        "chapter": "CHAPTER IV TECHNICAL SERVICES",
+        "content": [
+            {
+                "id": "WIPO_A50_1",
+                "text": "  The International Bureau may furnish services by providing technical \nand any other pertinent information available to it on the basis of published \ndocuments, primarily patents and published applications (referred to in this \nArticle as “the information services”). "
+            },
+            {
+                "id": "WIPO_A50_2",
+                "text": "  The International Bureau may provide these information services either \ndirectly or through one or more International Searching Authorities or other \nnational or international specialized institutions, with which the International \nBureau may reach agreement. "
+            },
+            {
+                "id": "WIPO_A50_3",
+                "text": "  The information services shall be operated in a way particularly \nfacilitating the acquisition by Contracting States which are developing countries \nof technical knowledge and technology, including available published \nknow-how. "
+            },
+            {
+                "id": "WIPO_A50_4",
+                "text": "  The information services shall be available to Governments of \nContracting States and their nationals and residents.  The Assembly may decide \nto make these services available also to others. "
+            },
+            {
+                "id": "WIPO_A50_5_a",
+                "text": "  Any service to Governments of Contracting States shall be furnished \nat cost, provided that, when the Government is that of a Contracting State which  is a developing country, the service shall be furnished below cost if the \ndifference can be covered from profit made on services furnished to others than \nGovernments of Contracting States or from the sources referred to in \nArticle 51(4). \n"
+            },
+            {
+                "id": "WIPO_A50_5_b",
+                "text": "  The cost referred to in subparagraph (a) is to be understood as cost \nover and above costs normally incident to the performance of the services of a \nnational Office or the obligations of an International Searching Authority. "
+            },
+            {
+                "id": "WIPO_A50_6",
+                "text": "  The details concerning the implementation of the provisions of this \nArticle shall be governed by decisions of the Assembly and, within the limits to \nbe fixed by the Assembly, such working groups as the Assembly may set up for \nthat purpose. "
+            },
+            {
+                "id": "WIPO_A50_7",
+                "text": "  The Assembly shall, when it considers it necessary, recommend \nmethods of providing financing supplementary to those referred to in \nparagraph (5). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A51",
+        "title": "Article 51 Technical Assistance",
+        "chapter": "CHAPTER IV TECHNICAL SERVICES",
+        "content": [
+            {
+                "id": "WIPO_A51_1",
+                "text": "  The Assembly shall establish a Committee for Technical Assistance \n(referred to in this Article as “the Committee”). "
+            },
+            {
+                "id": "WIPO_A51_2_a",
+                "text": "  The members of the Committee shall be elected among the \nContracting States, with due regard to the representation of developing \ncountries. "
+            },
+            {
+                "id": "WIPO_A51_2_b",
+                "text": "  The Director General shall, on his own initiative or at the request of \nthe Committee, invite representatives of intergovernmental organizations \nconcerned with technical assistance to developing countries to participate in the \nwork of the Committee. "
+            },
+            {
+                "id": "WIPO_A51_3_a",
+                "text": "  The task of the Committee shall be to organize and supervise \ntechnical assistance for Contracting States which are developing countries in \ndeveloping their patent systems individually or on a regional basis. "
+            },
+            {
+                "id": "WIPO_A51_3_b",
+                "text": "  The technical assistance shall comprise, among other things, the \ntraining of specialists, the loaning of experts, and the supply of equipment both \nfor demonstration and for operational purposes. "
+            },
+            {
+                "id": "WIPO_A51_4",
+                "text": "  The International Bureau shall seek to enter into agreements, on the one \nhand, with international financing organizations and intergovernmental \norganizations, particularly the United Nations, the agencies of the United \nNations, and the Specialized Agencies connected with the United Nations \nconcerned with technical assistance, and, on the other hand, with the  Governments of the States receiving the technical assistance, for the financing \nof projects pursuant to this Article. \n"
+            },
+            {
+                "id": "WIPO_A51_5",
+                "text": "  The details concerning the implementation of the provisions of this \nArticle shall be governed by decisions of the Assembly and, within the limits to \nbe fixed by the Assembly, such working groups as the Assembly may set up for \nthat purpose. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A52",
+        "title": "Article 52 Relations with Other Provisions of the Treaty",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A52_pre",
+                "text": " \nNothing in this Chapter shall affect the financial provisions contained in any \nother Chapter of this Treaty.  Such provisions are not applicable to the present \nChapter or to its implementation. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A53",
+        "title": "Article 53 Assembly",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A53_1_a",
+                "text": "  The Assembly shall, subject to Article 57(8), consist of the \nContracting States. "
+            },
+            {
+                "id": "WIPO_A53_1_b",
+                "text": "  The Government of each Contracting State shall be represented by \none delegate, who may be assisted by alternate delegates, advisors, and experts. "
+            },
+            {
+                "id": "WIPO_A53_2_a",
+                "text": "  The Assembly shall: \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_i",
+                "text": " deal with all matters concerning the maintenance and \ndevelopment of the Union and the implementation of this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_ii",
+                "text": " perform such tasks as are specifically assigned to it under other \nprovisions of this Treaty; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_iii",
+                "text": " give directions to the International Bureau concerning the \npreparation for revision conferences; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_iv",
+                "text": " review and approve the reports and activities of the Director \nGeneral concerning the Union, and give him all necessary instructions \nconcerning matters within the competence of the Union; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_v",
+                "text": " review and approve the reports and activities of the Executive \nCommittee established under paragraph (9), and give instructions to such \nCommittee; "
+            },
+            {
+                "id": "WIPO_A53_2_a_vi",
+                "text": " determine the program and adopt the triennial2 budget of the \nUnion, and approve its final accounts; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_vii",
+                "text": " adopt the financial regulations of the Union; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_viii",
+                "text": " establish such committees and working groups as it deems \nappropriate to achieve the objectives of the Union; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_ix",
+                "text": " determine which States other than Contracting States and, subject \nto the provisions of paragraph (8), which intergovernmental and international \nnon-governmental organizations shall be admitted to its meetings as observers; \n "
+            },
+            {
+                "id": "WIPO_A53_2_a_x",
+                "text": " take any other appropriate action designed to further the \nobjectives of the Union and perform such other functions as are appropriate \nunder this Treaty. "
+            },
+            {
+                "id": "WIPO_A53_2_b",
+                "text": "  With respect to matters which are of interest also to other Unions \nadministered by the Organization, the Assembly shall make its decisions after \nhaving heard the advice of the Coordination Committee of the Organization. "
+            },
+            {
+                "id": "WIPO_A53_3",
+                "text": "  A delegate may represent, and vote in the name of, one State only. "
+            },
+            {
+                "id": "WIPO_A53_4",
+                "text": "  Each Contracting State shall have one vote. "
+            },
+            {
+                "id": "WIPO_A53_5_a",
+                "text": "  One-half of the Contracting States shall constitute a quorum. "
+            },
+            {
+                "id": "WIPO_A53_5_b",
+                "text": "  In the absence of the quorum, the Assembly may make decisions but, \nwith the exception of decisions concerning its own procedure, all such decisions \nshall take effect only if the quorum and the required majority are attained \nthrough voting by correspondence as provided in the Regulations. "
+            },
+            {
+                "id": "WIPO_A53_6_a",
+                "text": "  Subject to the provisions of Articles 47(2)(b), 58(2)(b), 58(3) \nand 61(2)(b), the decisions of the Assembly shall require two-thirds of the votes \ncast. "
+            },
+            {
+                "id": "WIPO_A53_6_b",
+                "text": "  Abstentions shall not be considered as votes. "
+            },
+            {
+                "id": "WIPO_A53_7",
+                "text": "  In connection with matters of exclusive interest to States bound by \nChapter II, any reference to Contracting States in paragraphs (4), (5), and (6), \nshall be considered as applying only to States bound by Chapter II. "
+            },
+            {
+                "id": "WIPO_A53_8",
+                "text": "  Any intergovernmental organization appointed as International \nSearching or Preliminary Examining Authority shall be admitted as observer to \nthe Assembly. "
+            },
+            {
+                "id": "WIPO_A53_9",
+                "text": "  When the number of Contracting States exceeds forty, the Assembly \nshall establish an Executive Committee.  Any reference to the Executive  Committee in this Treaty and the Regulations shall be construed as references to \nsuch Committee once it has been established. \n"
+            },
+            {
+                "id": "WIPO_A53_10",
+                "text": "  Until the Executive Committee has been established, the Assembly \nshall approve, within the limits of the program and triennial3 budget, the annual \nprograms and budgets prepared by the Director General. "
+            },
+            {
+                "id": "WIPO_A53_11_a",
+                "text": "  The Assembly shall meet in every second calendar year in ordinary \nsession upon convocation by the Director General and, in the absence of \nexceptional circumstances, during the same period and at the same place as the \nGeneral Assembly of the Organization. "
+            },
+            {
+                "id": "WIPO_A53_11_b",
+                "text": "  The Assembly shall meet in extraordinary session upon convocation \nby the Director General, at the request of the Executive Committee, or at the \nrequest of one-fourth of the Contracting States. "
+            },
+            {
+                "id": "WIPO_A53_12",
+                "text": "  The Assembly shall adopt its own rules of procedure. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A54",
+        "title": "Article 54 Executive Committee",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A54_1",
+                "text": "  When the Assembly has established an Executive Committee, that \nCommittee shall be subject to the provisions set forth hereinafter. "
+            },
+            {
+                "id": "WIPO_A54_2_a",
+                "text": "  The Executive Committee shall, subject to Article 57(8), consist of \nStates elected by the Assembly from among States members of the Assembly. "
+            },
+            {
+                "id": "WIPO_A54_2_b",
+                "text": "  The Government of each State member of the Executive Committee \nshall be represented by one delegate, who may be assisted by alternate \ndelegates, advisors, and experts. "
+            },
+            {
+                "id": "WIPO_A54_3",
+                "text": "  The number of States members of the Executive Committee shall \ncorrespond to one-fourth of the number of States members of the Assembly.  In \nestablishing the number of seats to be filled, remainders after division by four \nshall be disregarded. "
+            },
+            {
+                "id": "WIPO_A54_4",
+                "text": "  In electing the members of the Executive Committee, the Assembly \nshall have due regard to an equitable geographical distribution. "
+            },
+            {
+                "id": "WIPO_A54_5_a",
+                "text": "  Each member of the Executive Committee shall serve from the close \nof the session of the Assembly which elected it to the close of the next ordinary \nsession of the Assembly. "
+            },
+            {
+                "id": "WIPO_A54_5_b",
+                "text": "  Members of the Executive Committee may be re-elected but only up \nto a maximum of two-thirds of such members. "
+            },
+            {
+                "id": "WIPO_A54_5_c",
+                "text": "  The Assembly shall establish the details of the rules governing the \nelection and possible re-election of the members of the Executive Committee. "
+            },
+            {
+                "id": "WIPO_A54_6_a",
+                "text": "  The Executive Committee shall: \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_i",
+                "text": " prepare the draft agenda of the Assembly; \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_ii",
+                "text": " submit proposals to the Assembly in respect of the draft program \nand biennial budget of the Union prepared by the Director General; \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_iii",
+                "text": " [deleted] \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_iv",
+                "text": " submit, with appropriate comments, to the Assembly the \nperiodical reports of the Director General and the yearly audit reports on the \naccounts; \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_v",
+                "text": " take all necessary measures to ensure the execution of the \nprogram of the Union by the Director General, in accordance with the decisions \nof the Assembly and having regard to circumstances arising between two \nordinary sessions of the Assembly; \n "
+            },
+            {
+                "id": "WIPO_A54_6_a_vi",
+                "text": " perform such other functions as are allocated to it under this \nTreaty. "
+            },
+            {
+                "id": "WIPO_A54_6_b",
+                "text": "  With respect to matters which are of interest also to other Unions \nadministered by the Organization, the Executive Committee shall make its \ndecisions after having heard the advice of the Coordination Committee of the \nOrganization. "
+            },
+            {
+                "id": "WIPO_A54_7_a",
+                "text": "  The Executive Committee shall meet once a year in ordinary session \nupon convocation by the Director General, preferably during the same period \nand at the same place as the Coordination Committee of the Organization. "
+            },
+            {
+                "id": "WIPO_A54_7_b",
+                "text": "  The Executive Committee shall meet in extraordinary session upon \nconvocation by the Director General, either on his own initiative or at the \nrequest of its Chairman or one-fourth of its members. "
+            },
+            {
+                "id": "WIPO_A54_8_a",
+                "text": "  Each State member of the Executive Committee shall have one vote. "
+            },
+            {
+                "id": "WIPO_A54_8_b",
+                "text": "  One-half of the members of the Executive Committee shall constitute \na quorum. "
+            },
+            {
+                "id": "WIPO_A54_8_c",
+                "text": "  Decisions shall be made by a simple majority of the votes cast. "
+            },
+            {
+                "id": "WIPO_A54_8_d",
+                "text": "  Abstentions shall not be considered as votes. "
+            },
+            {
+                "id": "WIPO_A54_8_e",
+                "text": "  A delegate may represent, and vote in the name of, one State only. "
+            },
+            {
+                "id": "WIPO_A54_9",
+                "text": "  Contracting States not members of the Executive Committee shall be \nadmitted to its meetings as observers, as well as any intergovernmental \norganization appointed as International Searching or Preliminary Examining \nAuthority. "
+            },
+            {
+                "id": "WIPO_A54_10",
+                "text": "  The Executive Committee shall adopt its own rules of procedure. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A55",
+        "title": "Article 55 International Bureau",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A55_1",
+                "text": "  Administrative tasks concerning the Union shall be performed by the \nInternational Bureau. "
+            },
+            {
+                "id": "WIPO_A55_2",
+                "text": "  The International Bureau shall provide the secretariat of the various \norgans of the Union. "
+            },
+            {
+                "id": "WIPO_A55_3",
+                "text": "  The Director General shall be the chief executive of the Union and shall \nrepresent the Union. "
+            },
+            {
+                "id": "WIPO_A55_4",
+                "text": "  The International Bureau shall publish a Gazette and other publications \nprovided for by the Regulations or required by the Assembly. "
+            },
+            {
+                "id": "WIPO_A55_5",
+                "text": "  The Regulations shall specify the services that national Offices shall \nperform in order to assist the International Bureau and the International \nSearching and Preliminary Examining Authorities in carrying out their tasks \nunder this Treaty. "
+            },
+            {
+                "id": "WIPO_A55_6",
+                "text": "  The Director General and any staff member designated by him shall \nparticipate, without the right to vote, in all meetings of the Assembly, the \nExecutive Committee and any other committee or working group established \nunder this Treaty or the Regulations.  The Director General, or a staff member \ndesignated by him, shall be ex officio secretary of these bodies. "
+            },
+            {
+                "id": "WIPO_A55_7_a",
+                "text": "  The International Bureau shall, in accordance with the directions of \nthe Assembly and in cooperation with the Executive Committee, make the \npreparations for the revision conferences. "
+            },
+            {
+                "id": "WIPO_A55_7_b",
+                "text": "  The International Bureau may consult with intergovernmental and \ninternational non-governmental organizations concerning preparations for \nrevision conferences. "
+            },
+            {
+                "id": "WIPO_A55_7_c",
+                "text": "  The Director General and persons designated by him shall take part, \nwithout the right to vote, in the discussions at revision conferences. "
+            },
+            {
+                "id": "WIPO_A55_8",
+                "text": "  The International Bureau shall carry out any other tasks assigned to it. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A56",
+        "title": "Article 56 Committee for Technical Cooperation",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A56_1",
+                "text": "  The Assembly shall establish a Committee for Technical Cooperation \n(referred to in this Article as “the Committee”). "
+            },
+            {
+                "id": "WIPO_A56_2_a",
+                "text": "  The Assembly shall determine the composition of the Committee and \nappoint its members, with due regard to an equitable representation of \ndeveloping countries. "
+            },
+            {
+                "id": "WIPO_A56_2_b",
+                "text": "  The International Searching and Preliminary Examining Authorities \nshall be ex officio members of the Committee.  In the case where such an \nAuthority is the national Office of a Contracting State, that State shall not be \nadditionally represented on the Committee. "
+            },
+            {
+                "id": "WIPO_A56_2_c",
+                "text": "  If the number of Contracting States so allows, the total number of \nmembers of the Committee shall be more than double the number of ex officio \nmembers. "
+            },
+            {
+                "id": "WIPO_A56_2_d",
+                "text": "  The Director General shall, on his own initiative or at the request of \nthe Committee, invite representatives of interested organizations to participate \nin discussions of interest to them. "
+            },
+            {
+                "id": "WIPO_A56_3",
+                "text": "  The aim of the Committee shall be to contribute, by advice and \nrecommendations: \n "
+            },
+            {
+                "id": "WIPO_A56_3_i",
+                "text": " to the constant improvement of the services provided for under this \nTreaty, \n "
+            },
+            {
+                "id": "WIPO_A56_3_ii",
+                "text": " to the securing, so long as there are several International Searching \nAuthorities and several International Preliminary Examining Authorities, of the \nmaximum degree of uniformity in their documentation and working methods \nand the maximum degree of uniformly high quality in their reports, and \n "
+            },
+            {
+                "id": "WIPO_A56_3_iii",
+                "text": " on the initiative of the Assembly or the Executive Committee, to the \nsolution of the technical problems specifically involved in the establishment of \na single International Searching Authority. "
+            },
+            {
+                "id": "WIPO_A56_4",
+                "text": "  Any Contracting State and any interested international organization may \napproach the Committee in writing on questions which fall within the \ncompetence of the Committee. "
+            },
+            {
+                "id": "WIPO_A56_5",
+                "text": "  The Committee may address its advice and recommendations to the \nDirector General or, through him, to the Assembly, the Executive Committee, \nall or some of the International Searching and Preliminary Examining \nAuthorities, and all or some of the receiving Offices. "
+            },
+            {
+                "id": "WIPO_A56_6_a",
+                "text": "  In any case, the Director General shall transmit to the Executive \nCommittee the texts of all the advice and recommendations of the Committee.  \nHe may comment on such texts. "
+            },
+            {
+                "id": "WIPO_A56_6_b",
+                "text": "  The Executive Committee may express its views on any advice, \nrecommendation, or other activity of the Committee, and may invite the \nCommittee to study and report on questions falling within its competence.  The  Executive Committee may submit to the Assembly, with appropriate comments, \nthe advice, recommendations and report of the Committee. \n"
+            },
+            {
+                "id": "WIPO_A56_7",
+                "text": "  Until the Executive Committee has been established, references in \nparagraph (6) to the Executive Committee shall be construed as references to \nthe Assembly. "
+            },
+            {
+                "id": "WIPO_A56_8",
+                "text": "  The details of the procedure of the Committee shall be governed by the \ndecisions of the Assembly. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A57",
+        "title": "Article 57 Finances",
+        "chapter": "CHAPTER V ADMINISTRATIVE PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A57_1_a",
+                "text": "  The Union shall have a budget. "
+            },
+            {
+                "id": "WIPO_A57_1_b",
+                "text": "  The budget of the Union shall include the income and expenses \nproper to the Union and its contribution to the budget of expenses common to \nthe Unions administered by the Organization. "
+            },
+            {
+                "id": "WIPO_A57_1_c",
+                "text": "  Expenses not attributable exclusively to the Union but also to one or \nmore other Unions administered by the Organization shall be considered as \nexpenses common to the Unions.  The share of the Union in such common \nexpenses shall be in proportion to the interest the Union has in them. "
+            },
+            {
+                "id": "WIPO_A57_2",
+                "text": "  The budget of the Union shall be established with due regard to the \nrequirements of coordination with the budgets of the other Unions administered \nby the Organization. "
+            },
+            {
+                "id": "WIPO_A57_3",
+                "text": "  Subject to the provisions of paragraph (5), the budget of the Union shall \nbe financed from the following sources: \n "
+            },
+            {
+                "id": "WIPO_A57_3_i",
+                "text": " fees and charges due for services rendered by the International \nBureau in relation to the Union; \n "
+            },
+            {
+                "id": "WIPO_A57_3_ii",
+                "text": " sale of, or royalties on, the publications of the International Bureau \nconcerning the Union; \n "
+            },
+            {
+                "id": "WIPO_A57_3_iii",
+                "text": " gifts, bequests, and subventions; \n "
+            },
+            {
+                "id": "WIPO_A57_3_iv",
+                "text": " rents, interests, and other miscellaneous income. "
+            },
+            {
+                "id": "WIPO_A57_4",
+                "text": "  The amounts of fees and charges due to the International Bureau and the \nprices of its publications shall be so fixed that they should, under normal \ncircumstances, be sufficient to cover all the expenses of the International \nBureau connected with the administration of this Treaty. "
+            },
+            {
+                "id": "WIPO_A57_5_a",
+                "text": "  Should any financial year close with a deficit, the Contracting States \nshall, subject to the provisions of subparagraphs (b) and (c), pay contributions \nto cover such deficit. "
+            },
+            {
+                "id": "WIPO_A57_5_b",
+                "text": "  The amount of the contribution of each Contracting State shall be \ndecided by the Assembly with due regard to the number of international \napplications which has emanated from each of them in the relevant year. "
+            },
+            {
+                "id": "WIPO_A57_5_c",
+                "text": "  If other means of provisionally covering any deficit or any part \nthereof are secured, the Assembly may decide that such deficit be carried \nforward and that the Contracting States should not be asked to pay \ncontributions. "
+            },
+            {
+                "id": "WIPO_A57_5_d",
+                "text": "  If the financial situation of the Union so permits, the Assembly may \ndecide that any contributions paid under subparagraph (a) be reimbursed to the \nContracting States which have paid them. "
+            },
+            {
+                "id": "WIPO_A57_5_e",
+                "text": "  A Contracting State which has not paid, within two years of the due \ndate as established by the Assembly, its contribution under subparagraph (b) \nmay not exercise its right to vote in any of the organs of the Union.  However, \nany organ of the Union may allow such a State to continue to exercise its right \nto vote in that organ so long as it is satisfied that the delay in payment is due to \nexceptional and unavoidable circumstances. "
+            },
+            {
+                "id": "WIPO_A57_6",
+                "text": "  If the budget is not adopted before the beginning of a new financial \nperiod, it shall be at the same level as the budget of the previous year, as \nprovided in the financial regulations. "
+            },
+            {
+                "id": "WIPO_A57_7_a",
+                "text": "  The Union shall have a working capital fund which shall be \nconstituted by a single payment made by each Contracting State.  If the fund \nbecomes insufficient, the Assembly shall arrange to increase it.  If part of the \nfund is no longer needed, it shall be reimbursed. "
+            },
+            {
+                "id": "WIPO_A57_7_b",
+                "text": "  The amount of the initial payment of each Contracting State to the \nsaid fund or of its participation in the increase thereof shall be decided by the \nAssembly on the basis of principles similar to those provided for under \nparagraph (5)(b). "
+            },
+            {
+                "id": "WIPO_A57_7_c",
+                "text": "  The terms of payment shall be fixed by the Assembly on the proposal \nof the Director General and after it has heard the advice of the Coordination \nCommittee of the Organization. "
+            },
+            {
+                "id": "WIPO_A57_7_d",
+                "text": "  Any reimbursement shall be proportionate to the amounts paid by \neach Contracting State, taking into account the dates at which they were paid. "
+            },
+            {
+                "id": "WIPO_A57_8_a",
+                "text": "  In the headquarters agreement concluded with the State on the \nterritory of which the Organization has its headquarters, it shall be provided \nthat, whenever the working capital fund is insufficient, such State shall grant \nadvances.  The amount of these advances and the conditions on which they are \ngranted shall be the subject of separate agreements, in each case, between such  State and the Organization.  As long as it remains under the obligation to grant \nadvances, such State shall have an ex officio seat in the Assembly and on the \nExecutive Committee. \n"
+            },
+            {
+                "id": "WIPO_A57_8_b",
+                "text": "  The State referred to in subparagraph (a) and the Organization shall \neach have the right to denounce the obligation to grant advances, by written \nnotification.  Denunciation shall take effect three years after the end of the year \nin which it has been notified. "
+            },
+            {
+                "id": "WIPO_A57_9",
+                "text": "  The auditing of the accounts shall be effected by one or more of the \nContracting States or by external auditors, as provided in the financial \nregulations.  They shall be designated, with their agreement, by the Assembly. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A58",
+        "title": "Article 58 Regulations",
+        "chapter": "CHAPTER VI DISPUTES",
+        "content": [
+            {
+                "id": "WIPO_A58_1",
+                "text": "  The Regulations annexed to this Treaty provide Rules: \n "
+            },
+            {
+                "id": "WIPO_A58_1_i",
+                "text": " concerning matters in respect of which this Treaty expressly refers to \nthe Regulations or expressly provides that they are or shall be prescribed, \n "
+            },
+            {
+                "id": "WIPO_A58_1_ii",
+                "text": " concerning any administrative requirements, matters, or procedures, \n "
+            },
+            {
+                "id": "WIPO_A58_1_iii",
+                "text": " concerning any details useful in the implementation of the \nprovisions of this Treaty. "
+            },
+            {
+                "id": "WIPO_A58_2_a",
+                "text": "  The Assembly may amend the Regulations. "
+            },
+            {
+                "id": "WIPO_A58_2_b",
+                "text": "  Subject to the provisions of paragraph (3), amendments shall require \nthree-fourths of the votes cast. "
+            },
+            {
+                "id": "WIPO_A58_3_a",
+                "text": "  The Regulations specify the Rules which may be amended \n "
+            },
+            {
+                "id": "WIPO_A58_3_a_i",
+                "text": " only by unanimous consent, or \n "
+            },
+            {
+                "id": "WIPO_A58_3_a_ii",
+                "text": " only if none of the Contracting States whose national Office acts \nas an International Searching or Preliminary Examining Authority dissents, and, \nwhere such Authority is an intergovernmental organization, if the Contracting \nState member of that organization authorized for that purpose by the other \nmember States within the competent body of such organization does not dissent. "
+            },
+            {
+                "id": "WIPO_A58_3_b",
+                "text": "  Exclusion, for the future, of any such Rules from the applicable \nrequirement shall require the fulfillment of the conditions referred to in \nsubparagraph (a)(i) or (a)(ii), respectively. "
+            },
+            {
+                "id": "WIPO_A58_3_c",
+                "text": "  Inclusion, for the future, of any Rule in one or the other of the \nrequirements referred to in subparagraph (a) shall require unanimous consent. "
+            },
+            {
+                "id": "WIPO_A58_4",
+                "text": "  The Regulations provide for the establishment, under the control of the \nAssembly, of Administrative Instructions by the Director General. "
+            },
+            {
+                "id": "WIPO_A58_5",
+                "text": "  In the case of conflict between the provisions of the Treaty and those of \nthe Regulations, the provisions of the Treaty shall prevail. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A59",
+        "title": "Article 59 Disputes",
+        "chapter": "CHAPTER VII REVISION AND AMENDMENT",
+        "content": [
+            {
+                "id": "WIPO_A59_pre",
+                "text": " \nSubject to Article 64(5), any dispute between two or more Contracting \nStates concerning the interpretation or application of this Treaty or the \nRegulations, not settled by negotiation, may, by any one of the States \nconcerned, be brought before the International Court of Justice by application in \nconformity with the Statute of the Court, unless the States concerned agree on \nsome other method of settlement.  The Contracting State bringing the dispute \nbefore the Court shall inform the International Bureau;  the International Bureau \nshall bring the matter to the attention of the other Contracting States. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A60",
+        "title": "Article 60 Revision of the Treaty",
+        "chapter": "CHAPTER VII REVISION AND AMENDMENT",
+        "content": [
+            {
+                "id": "WIPO_A60_1",
+                "text": "  This Treaty may be revised from time to time by a special conference of \nthe Contracting States. "
+            },
+            {
+                "id": "WIPO_A60_2",
+                "text": "  The convocation of any revision conference shall be decided by the \nAssembly. "
+            },
+            {
+                "id": "WIPO_A60_3",
+                "text": "  Any intergovernmental organization appointed as International \nSearching or Preliminary Examining Authority shall be admitted as observer to \nany revision conference. "
+            },
+            {
+                "id": "WIPO_A60_4",
+                "text": "  Articles 53(5), (9) and (11), 54, 55(4) to (8), 56, and 57, may be \namended either by a revision conference or according to the provisions of \nArticle 61. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A61",
+        "title": "Article 61 Amendment of Certain Provisions of the Treaty",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A61_1_a",
+                "text": "  Proposals for the amendment of Articles 53(5), (9) and (11), 54, 55(4) \nto (8), 56, and 57, may be initiated by any State member of the Assembly, by the \nExecutive Committee, or by the Director General. "
+            },
+            {
+                "id": "WIPO_A61_1_b",
+                "text": "  Such proposals shall be communicated by the Director General to the \nContracting States at least six months in advance of their consideration by the \nAssembly. "
+            },
+            {
+                "id": "WIPO_A61_2_a",
+                "text": "  Amendments to the Articles referred to in paragraph (1) shall be \nadopted by the Assembly. "
+            },
+            {
+                "id": "WIPO_A61_2_b",
+                "text": "  Adoption shall require three-fourths of the votes cast. "
+            },
+            {
+                "id": "WIPO_A61_3_a",
+                "text": "  Any amendment to the Articles referred to in paragraph (1) shall \nenter into force one month after written notifications of acceptance, effected in \naccordance with their respective constitutional processes, have been received by \nthe Director General from three-fourths of the States members of the Assembly \nat the time it adopted the amendment. "
+            },
+            {
+                "id": "WIPO_A61_3_b",
+                "text": "  Any amendment to the said Articles thus accepted shall bind all the \nStates which are members of the Assembly at the time the amendment enters \ninto force, provided that any amendment increasing the financial obligations of \nthe Contracting States shall bind only those States which have notified their \nacceptance of such amendment. "
+            },
+            {
+                "id": "WIPO_A61_3_c",
+                "text": "  Any amendment accepted in accordance with the provisions of \nsubparagraph (a) shall bind all States which become members of the Assembly \nafter the date on which the amendment entered into force in accordance with the \nprovisions of subparagraph (a). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A62",
+        "title": "Article 62 Becoming Party to the Treaty",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A62_1",
+                "text": "  Any State member of the International Union for the Protection of \nIndustrial Property may become party to this Treaty by: \n "
+            },
+            {
+                "id": "WIPO_A62_1_i",
+                "text": " signature followed by the deposit of an instrument of ratification, or \n "
+            },
+            {
+                "id": "WIPO_A62_1_ii",
+                "text": " deposit of an instrument of accession. "
+            },
+            {
+                "id": "WIPO_A62_2",
+                "text": "  Instruments of ratification or accession shall be deposited with the \nDirector General. "
+            },
+            {
+                "id": "WIPO_A62_3",
+                "text": "  The provisions of Article 24 of the Stockholm Act of the Paris \nConvention for the Protection of Industrial Property shall apply to this Treaty. "
+            },
+            {
+                "id": "WIPO_A62_4",
+                "text": "  Paragraph (3) shall in no way be understood as implying the recognition \nor tacit acceptance by a Contracting State of the factual situation concerning a  territory to which this Treaty is made applicable by another Contracting State by \nvirtue of the said paragraph. \n"
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A63",
+        "title": "Article 63 Entry into Force of the Treaty",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A63_1_a",
+                "text": "  Subject to the provisions of paragraph (3), this Treaty shall enter into \nforce three months after eight States have deposited their instruments of \nratification or accession, provided that at least four of those States each fulfill \nany of the following conditions: \n "
+            },
+            {
+                "id": "WIPO_A63_1_a_i",
+                "text": " the number of applications filed in the State has exceeded 40,000 \naccording to the most recent annual statistics published by the International \nBureau, \n "
+            },
+            {
+                "id": "WIPO_A63_1_a_ii",
+                "text": " the nationals or residents of the State have filed at least 1,000 \napplications in one foreign country according to the most recent annual \nstatistics published by the International Bureau, \n "
+            },
+            {
+                "id": "WIPO_A63_1_a_iii",
+                "text": " the national Office of the State has received at least 10,000 \napplications from nationals or residents of foreign countries according to the \nmost recent annual statistics published by the International Bureau. "
+            },
+            {
+                "id": "WIPO_A63_1_b",
+                "text": "  For the purposes of this paragraph, the term “applications” does not \ninclude applications for utility models. "
+            },
+            {
+                "id": "WIPO_A63_2",
+                "text": "  Subject to the provisions of paragraph (3), any State which does not \nbecome party to this Treaty upon entry into force under paragraph (1) shall \nbecome bound by this Treaty three months after the date on which such State \nhas deposited its instrument of ratification or accession. "
+            },
+            {
+                "id": "WIPO_A63_3",
+                "text": "  The provisions of Chapter II and the corresponding provisions of the \nRegulations annexed to this Treaty shall become applicable, however, only on \nthe date on which three States each of which fulfill at least one of the three \nrequirements specified in paragraph (1) have become party to this Treaty \nwithout declaring, as provided in Article 64(1), that they do not intend to be \nbound by the provisions of Chapter II.  That date shall not, however, be prior to \nthat of the initial entry into force under paragraph (1). "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A64",
+        "title": "Article 64 Reservations4",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A64_1_a",
+                "text": "  Any State may declare that it shall not be bound by the provisions of \nChapter II. "
+            },
+            {
+                "id": "WIPO_A64_1_b",
+                "text": "  States making a declaration under subparagraph (a) shall not be \nbound by the provisions of Chapter II and the corresponding provisions of the \nRegulations. "
+            },
+            {
+                "id": "WIPO_A64_2_a",
+                "text": "  Any State not having made a declaration under paragraph (1)(a) may \ndeclare that: \n "
+            },
+            {
+                "id": "WIPO_A64_2_a_i",
+                "text": " it shall not be bound by the provisions of Article 39(1) with \nrespect to the furnishing of a copy of the international application and a \ntranslation thereof (as prescribed), \n "
+            },
+            {
+                "id": "WIPO_A64_2_a_ii",
+                "text": " the obligation to delay national processing, as provided for under \nArticle 40, shall not prevent publication, by or through its national Office, of the \ninternational application or a translation thereof, it being understood, however, \nthat it is not exempted from the limitations provided for in Articles 30 and 38. "
+            },
+            {
+                "id": "WIPO_A64_2_b",
+                "text": "  States making such a declaration shall be bound accordingly. "
+            },
+            {
+                "id": "WIPO_A64_3_a",
+                "text": "  Any State may declare that, as far as it is concerned, international \npublication of international applications is not required. "
+            },
+            {
+                "id": "WIPO_A64_3_b",
+                "text": "  Where, at the expiration of 18 months from the priority date, the \ninternational application contains the designation only of such States as have \nmade declarations under subparagraph (a), the international application shall \nnot be published by virtue of Article 21(2). "
+            },
+            {
+                "id": "WIPO_A64_3_c",
+                "text": "  Where the provisions of subparagraph (b) apply, the international \napplication shall nevertheless be published by the International Bureau: \n "
+            },
+            {
+                "id": "WIPO_A64_3_c_i",
+                "text": " at the request of the applicant, as provided in the Regulations, \n "
+            },
+            {
+                "id": "WIPO_A64_3_c_ii",
+                "text": " when a national application or a patent based on the international \napplication is published by or on behalf of the national Office of any designated \nState having made a declaration under subparagraph (a), promptly after such \npublication but not before the expiration of 18 months from the priority date. "
+            },
+            {
+                "id": "WIPO_A64_4_a",
+                "text": "  Any State whose national law provides for prior art effect of its \npatents as from a date before publication, but does not equate for prior art \npurposes the priority date claimed under the Paris Convention for the Protection  of Industrial Property to the actual filing date in that State, may declare that the \nfiling outside that State of an international application designating that State is \nnot equated to an actual filing in that State for prior art purposes. \n"
+            },
+            {
+                "id": "WIPO_A64_4_b",
+                "text": "  Any State making a declaration under subparagraph (a) shall to that \nextent not be bound by the provisions of Article 11(3). "
+            },
+            {
+                "id": "WIPO_A64_4_c",
+                "text": "  Any State making a declaration under subparagraph (a) shall, at the \nsame time, state in writing the date from which, and the conditions under which, \nthe prior art effect of any international application designating that State \nbecomes effective in that State.  This statement may be modified at any time by \nnotification addressed to the Director General. "
+            },
+            {
+                "id": "WIPO_A64_5",
+                "text": "  Each State may declare that it does not consider itself bound by \nArticle 59.  With regard to any dispute between any Contracting State having \nmade such a declaration and any other Contracting State, the provisions of \nArticle 59 shall not apply. "
+            },
+            {
+                "id": "WIPO_A64_6_a",
+                "text": "  Any declaration made under this Article shall be made in writing.  It \nmay be made at the time of signing this Treaty, at the time of depositing the \ninstrument of ratification or accession, or, except in the case referred to in \nparagraph (5), at any later time by notification addressed to the Director \nGeneral.  In the case of the said notification, the declaration shall take effect six \nmonths after the day on which the Director General has received the \nnotification, and shall not affect international applications filed prior to the \nexpiration of the said six-month period. "
+            },
+            {
+                "id": "WIPO_A64_6_b",
+                "text": "  Any declaration made under this Article may be withdrawn at any \ntime by notification addressed to the Director General.  Such withdrawal shall \ntake effect three months after the day on which the Director General has \nreceived the notification and, in the case of the withdrawal of a declaration \nmade under paragraph (3), shall not affect international applications filed prior \nto the expiration of the said three-month period. "
+            },
+            {
+                "id": "WIPO_A64_7",
+                "text": "  No reservations to this Treaty other than the reservations under \nparagraphs (1) to (5) are permitted. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A65",
+        "title": "Article 65 Gradual Application",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A65_1",
+                "text": "  If the agreement with any International Searching or Preliminary \nExamining Authority provides, transitionally, for limits on the number or kind \nof international applications that such Authority undertakes to process, the \nAssembly shall adopt the measures necessary for the gradual application of this \nTreaty and the Regulations in respect of given categories of international  applications.  This provision shall also apply to requests for an international-\ntype search under Article 15(5). \n"
+            },
+            {
+                "id": "WIPO_A65_2",
+                "text": "  The Assembly shall fix the dates from which, subject to the provision of \nparagraph (1), international applications may be filed and demands for \ninternational preliminary examination may be submitted.  Such dates shall not \nbe later than six months after this Treaty has entered into force according to the \nprovisions of Article 63(1), or after Chapter II has become applicable under \nArticle 63(3), respectively. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A66",
+        "title": "Article 66 Denunciation",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A66_1",
+                "text": "  Any Contracting State may denounce this Treaty by notification \naddressed to the Director General. "
+            },
+            {
+                "id": "WIPO_A66_2",
+                "text": "  Denunciation shall take effect six months after receipt of the said \nnotification by the Director General.  It shall not affect the effects of the \ninternational application in the denouncing State if the international application \nwas filed, and, where the denouncing State has been elected, the election was \nmade, prior to the expiration of the said six-month period. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A67",
+        "title": "Article 67 Signature and Languages",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A67_1_a",
+                "text": "  This Treaty shall be signed in a single original in the English and \nFrench languages, both texts being equally authentic. "
+            },
+            {
+                "id": "WIPO_A67_1_b",
+                "text": "  Official texts shall be established by the Director General, after \nconsultation with the interested Governments, in the German, Japanese, \nPortuguese, Russian and Spanish languages, and such other languages as the \nAssembly may designate. "
+            },
+            {
+                "id": "WIPO_A67_2",
+                "text": "  This Treaty shall remain open for signature at Washington until \nDecember 31, 1970. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A68",
+        "title": "Article 68 Depositary Functions",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A68_1",
+                "text": "  The original of this Treaty, when no longer open for signature, shall be \ndeposited with the Director General. "
+            },
+            {
+                "id": "WIPO_A68_2",
+                "text": "  The Director General shall transmit two copies, certified by him, of this \nTreaty and the Regulations annexed hereto to the Governments of all States \nparty to the Paris Convention for the Protection of Industrial Property and, on \nrequest, to the Government of any other State. "
+            },
+            {
+                "id": "WIPO_A68_3",
+                "text": "  The Director General shall register this Treaty with the Secretariat of the \nUnited Nations. "
+            },
+            {
+                "id": "WIPO_A68_4",
+                "text": "  The Director General shall transmit two copies, certified by him, of any \namendment to this Treaty and the Regulations to the Governments of all \nContracting States and, on request, to the Government of any other State. "
+            }
+        ]
+    },
+    {
+        "id": "WIPO_A69",
+        "title": "Article 69 Notifications",
+        "chapter": "CHAPTER VIII FINAL PROVISIONS",
+        "content": [
+            {
+                "id": "WIPO_A69_pre",
+                "text": "The Director General shall notify the Governments of all States party to the  Paris Convention for the Protection of Industrial Property of:"
+            },
+            {
+                "id": "WIPO_A69_i",
+                "text": " signatures under Article 62, \n "
+            },
+            {
+                "id": "WIPO_A69_ii",
+                "text": " deposits of instruments of ratification or accession under Article 62, \n "
+            },
+            {
+                "id": "WIPO_A69_iii",
+                "text": " the date of entry into force of this Treaty and the date from which \nChapter II is applicable in accordance with Article 63(3), \n "
+            },
+            {
+                "id": "WIPO_A69_iv",
+                "text": " any declarations made under Article 64(1) to (5), \n "
+            },
+            {
+                "id": "WIPO_A69_v",
+                "text": " withdrawals of any declarations made under Article 64(6)(b), \n "
+            },
+            {
+                "id": "WIPO_A69_vi",
+                "text": " denunciations received under Article 66, and \n "
+            },
+            {
+                "id": "WIPO_A69_vii",
+                "text": " any declarations made under Article 31(4). \n \n \n \n "
+            }
+        ]
+    }
+]

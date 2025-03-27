@@ -1,0 +1,40 @@
+[
+    {
+        "id": "PROTINTA69",
+        "title": "Protocol on the Interpretation of Article 69 EPC",
+        "content": [
+            {
+                "id": "PROTINTA69_pre",
+                "text": "of 5\u00a0October\u00a01973  as revised by the Act revising the EPC of 29\u00a0November\u00a02000  [1]"
+            }
+        ],
+        "footnotes": [
+            {
+                "key": "1",
+                "content": "The new text of the Protocol adopted by the Administrative Council of the European Patent Organisation in its decision of 28\u00a0June 200 (see OJ\u00a0EPO 200,\u00a0Special edition No.\u00a04, p.\u00a055) has become an integral part of the Revision Act of 29\u00a0November 2000 under Article\u00a03(2), second sentence, of that Act."
+            }
+        ]
+    },
+    {
+        "id": "PROTINTA69_A1",
+        "title": "Article\u00a01  General principles",
+        "content": [
+            {
+                "id": "PROTINTA69_A1_pre",
+                "text": "Article\u00a069  should not be interpreted as meaning that the extent of the protection conferred by a European patent is to be understood as that defined by the strict, literal meaning of the wording used in the claims, the description and drawings being employed only for the purpose of resolving an ambiguity found in the claims. Nor should it be taken to mean that the claims serve only as a guideline and that the actual protection conferred may extend to what, from a consideration of the description and drawings by a person skilled in the art, the patent proprietor has contemplated. On the contrary, it is to be interpreted as defining a position between these extremes which combines a fair protection for the patent proprietor with a reasonable degree of legal certainty for third parties."
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "id": "PROTINTA69_A2",
+        "title": "Article\u00a02  Equivalents",
+        "content": [
+            {
+                "id": "PROTINTA69_A2_pre",
+                "text": "For the purpose of determining the extent of protection conferred by a European patent, due account shall be taken of any element which is equivalent to an element specified in the claims."
+            }
+        ],
+        "footnotes": []
+    }
+]
