@@ -1,12 +1,16 @@
-import spacy
+from transformers import AutoTokenizer, AutoModel
+import torch
+
 import numpy as np
 import h5py
 import json
 import re
 import os
 
+model_name = "voyage-law-2"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModel.from_pretrained(model_name)
 
-model = spacy.load('en_core_web_md')
 
 
 def compute_question_embeddings(questions_json, nlp):
@@ -27,8 +31,13 @@ def compute_article_embeddings(article_json, nlp):
     for article_data in article_json:
         for content in article_data["content"]:
             article_text = re.sub(r'\[.*?\]', '', article_data['title']) + " | " + content["id"] + ": " + content["text"]
-            doc = nlp(article_text)
-            embeddings.append(doc.vector)
+            inputs = tokenizer(article_text, return_tensors="pt", truncation=True, padding=True, max_length=512)
+            # Get the model outputs
+            with torch.no_grad():
+                outputs = nlp(**inputs)
+            # Use the mean of the last hidden state as the embedding
+            embeddings = outputs.last_hidden_state.mean(dim=1).squeeze()
+
     print(len(embeddings))
     return embeddings
 
@@ -92,6 +101,5 @@ elif embed == "articles":
             handle_article_file(file_path, contents, embeddings)
             print("handled file : ", file_path)
 
-    
     # handle_article_file("../data/official_legal_publications/EPC/formated_articles.json", contents, embeddings)
-    store_article_vectors_in_h5("../bin/article_embeddings.h5", embeddings, contents)
+    store_article_vectors_in_h5("../bin/article_embeddings_voyager.h5", embeddings, contents)

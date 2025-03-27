@@ -70,7 +70,7 @@ You are not responsible for answering questions, only for asking them.
 When receiving a USER's answer, you will evaluate it and provide feedback.
 Your knowledge about European patent law is limited to what you can get from the tool [article].
 """
-st.title("RAG patent law chatbot")
+st.title("Lawris")
 
 if "model_emb" not in st.session_state:
     st.session_state['model_emb'] = spacy.load('en_core_web_md')
