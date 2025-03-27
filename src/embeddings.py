@@ -32,7 +32,7 @@ def compute_article_embeddings(article_json, nlp):
     print(len(embeddings))
     return embeddings
 
-def store_question_vectors_in_h5(filename, vectors, dataset_name='vectors'):
+def store_question_vectors_in_h5(filename, vectors, contents, dataset_name='vectors'):
     vectors_array = np.array(vectors)
     contents_array = np.array([i['question'].encode('utf-8') for i in contents])
 
@@ -65,15 +65,22 @@ def handle_article_file(filename, contents, embeddings):
     contents += [(re.sub(r'\[.*?\]', '', i['title']) + " | " + j["id"]).encode("utf-8") for i in articles_json for j in i["content"]]
     embeddings += compute_article_embeddings(articles_json, model)
 
-embed = "articles"
+embed = "questions"
 if embed == "questions":
-    with open('epc_questions.json', 'r') as file:
+    with open('../data/EPAC/MCQ_EPAC.json', 'r') as file:
         questions_json = json.load(file)
         
-    contents = questions_json["questions"]
+    contents = [(i['title'] + " | " + j["id"]).encode("utf-8") for i in questions_json for j in i["content"]]
 
     question_embeddings = compute_question_embeddings(questions_json, model)
-    store_question_vectors_in_h5("question_embeddings.h5", question_embeddings)
+    
+    with open('../data/EQE_pre_exam/EQE_pre_exam_question.json', 'r') as file:
+        questions_json = json.load(file)
+        
+    contents += questions_json["questions"]
+
+    question_embeddings += compute_question_embeddings(questions_json, model)
+    store_question_vectors_in_h5("question_embeddings.h5", question_embeddings, contents)
 elif embed == "articles":
     embeddings = []
     contents = []

@@ -77,14 +77,14 @@ if "model_emb" not in st.session_state:
 
 
 if "question_embedding" not in st.session_state:
-    with h5py.File("question_embeddings.h5", 'r') as h5file:
+    with h5py.File("../bin/question_embeddings.h5", 'r') as h5file:
         st.session_state['question_embedding'] = h5file['vectors'][:]
         st.session_state['question_contents'] = h5file['text'][:]
         st.session_state['question_contents'] = [s.decode('utf-8') for s in st.session_state['question_contents']]
     st.session_state['question_neighbours'] = NearestNeighbors(n_neighbors=k_neigh, algorithm='auto').fit(st.session_state['question_embedding'])
 
 if "document_embedding" not in st.session_state:
-    with h5py.File("article_embeddings.h5", 'r') as h5file:
+    with h5py.File("../bin/article_embeddings.h5", 'r') as h5file:
         st.session_state['document_embedding'] = h5file['vectors'][:]
         st.session_state['document_contents'] = h5file['text'][:]
         st.session_state['document_contents'] = [s.decode('utf-8') for s in st.session_state['document_contents']]
