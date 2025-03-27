@@ -5,12 +5,17 @@ import streamlit as st
 import h5py
 from sklearn.neighbors import NearestNeighbors
 import spacy
-from smolagents import CodeAgent, HfApiModel, tool
-from huggingface_hub import login
+from smolagents import CodeAgent, DuckDuckGoSearchTool, HfApiModel, LiteLLMModel, ToolCallingAgent, tool
 from time import sleep
 import random as random
 
-login(token="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")
+if "model" not in st.session_state:
+    st.session_state['model'] = LiteLLMModel(
+        model_id = 'ollama_chat/gemma3:4b',
+        api_key = 'ollama'
+    )
+
+# login(token="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")
 
 # from sentence_transformers import SentenceTransformer
 
@@ -66,9 +71,11 @@ def article(subject: str, nb_article: int) -> str:
 SYSTEM_PROMPT = """
 You are responsible for writing questions to test students on European patent law.
 Students will ask you for questions. If a specific topic is mentionned, ask them about it, otherwise, select at random.
-You are not responsible for answering questions, only for asking them.
+When creating a question, you are not responsible for answering questions, only for asking them.
 When receiving a USER's answer, you will evaluate it and provide feedback.
+If the student asks you for specifications about a specific topic, answer as detailly as possible, in multiple parts.
 Your knowledge about European patent law is limited to what you can get from the tool [article].
+Use your monitored agents to help you in your different tasks.
 """
 st.title("Lawris")
 
@@ -88,7 +95,7 @@ if "document_embedding" not in st.session_state:
         st.session_state['document_embedding'] = h5file['vectors'][:]
         st.session_state['document_contents'] = h5file['text'][:]
         st.session_state['document_contents'] = [s.decode('utf-8') for s in st.session_state['document_contents']]
-    print(st.session_state['document_contents'])
+    # print(st.session_state['document_contents'])
     st.session_state['document_neighbours'] = NearestNeighbors(n_neighbors=k_neigh, algorithm='auto').fit(st.session_state['document_embedding'])
 
 # initialize history
@@ -96,11 +103,11 @@ if "messages" not in st.session_state:
     st.session_state["messages"] = [{'role': 'system', 'content' : ""}]
 
 # init models
-if "model" not in st.session_state:
-    question_generator = CodeAgent(tools=[question_type, article], model=HfApiModel(), max_steps=5, name="question_generator", description="Generates a question based on articles.")
-    answer_generator = CodeAgent(tools=[article], model=HfApiModel(), max_steps=5, name="answer_generator", description="Generates a very detailed answer to a patent law question with relevant quotes with their sources.")
-    answer_comparator = CodeAgent(tools=[], model=HfApiModel(), max_steps=5, name="answer_comparator", description="Compares the answer generator's response to the user's to a question and provide feedback.", managed_agents=[answer_generator])
-    st.session_state["main_agent"] = CodeAgent(tools=[article], model=HfApiModel(), max_steps = 5, managed_agents=[question_generator, answer_comparator])
+if "main_agent" not in st.session_state:
+    question_generator = CodeAgent(tools=[question_type, article], model=st.session_state['model'], max_steps=1, name="question_generator", description="Generates a question based on articles.")
+    answer_generator = CodeAgent(tools=[article], model=st.session_state['model'], max_steps=1, name="answer_generator", description="Generates a very detailed answer to a patent law question with relevant quotes with their sources.")
+    answer_comparator = CodeAgent(tools=[], model=st.session_state['model'], max_steps=2, name="answer_comparator", description="Compares the answer generator's response to the user's to a question and provide feedback.", managed_agents=[answer_generator])
+    st.session_state["main_agent"] = CodeAgent(tools=[article], model=st.session_state['model'], max_steps = 2, managed_agents=[question_generator, answer_comparator])
 
 def model_res_generator():
     for message in st.session_state['messages']:
