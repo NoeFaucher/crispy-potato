@@ -12,7 +12,7 @@ from sentence_transformers import SentenceTransformer
 
 
 
-login(token="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")
+login(token="******") # Enter your huggingface token
 
 # from sentence_transformers import SentenceTransformer
 
