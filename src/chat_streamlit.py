@@ -4,17 +4,19 @@
 import streamlit as st
 import h5py
 from sklearn.neighbors import NearestNeighbors
-import spacy
 from smolagents import CodeAgent, HfApiModel, tool
 from huggingface_hub import login
 from time import sleep
 import random as random
+from sentence_transformers import SentenceTransformer
 
-login(token="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")
+
+
+login(token="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")
 
 # from sentence_transformers import SentenceTransformer
 
-k_neigh = 4
+k_neigh = 15
 
 @tool
 def question_type(qtype: str, from_article: str) -> str:
@@ -41,17 +43,16 @@ def article(subject: str, nb_article: int) -> str:
     Returns the most appropriate articles for the given subject. The content returned shall not be deformed or rephrased in any way.
     Args:
         subject: The subject to find articles related to.
-        nb_article: The number of articles to return (between 1 and 4).
+        nb_article: The number of articles to return (between 1 and 15).
     """
-    
-    query_emb = st.session_state['model_emb'](subject).vector
-    _, idx = st.session_state['document_neighbours'].kneighbors([query_emb])
+    query_emb = st.session_state['model_emb'].encode([subject])
+    _, idx = st.session_state['document_neighbours'].kneighbors(query_emb)
     # print(idx[0], len(st.session_state['document_contents']))
     context = [st.session_state['document_contents'][i] for i in idx[0]]
     
     context = context[:nb_article]
     
-    return "The following articles are relevant to the question : " + "\n".join(context)
+    return "The following articles are relevant to the question: (CONTEXT) " + "\n (CONTEXT) ".join(context)
 
 
 # SYSTEM_PROMPT = """
@@ -66,30 +67,32 @@ def article(subject: str, nb_article: int) -> str:
 SYSTEM_PROMPT = """
 You are responsible for writing questions to test students on European patent law.
 Students will ask you for questions. If a specific topic is mentionned, ask them about it, otherwise, select at random.
-You are not responsible for answering questions, only for asking them.
+When creating a question, you are not responsible for answering questions, only for asking them.
 When receiving a USER's answer, you will evaluate it and provide feedback.
-Your knowledge about European patent law is limited to what you can get from the tool [article].
+If the student asks you for specifications about a specific topic, answer as detailly as possible, in multiple parts.
+Your knowledge about European patent law is limited to what you can get from the tool [article], the articles and rules following (CONTEXT).
 """
 st.title("RAG patent law chatbot")
 
 if "model_emb" not in st.session_state:
-    st.session_state['model_emb'] = spacy.load('en_core_web_md')
+    st.session_state['model_emb'] = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    
 
 
-if "question_embedding" not in st.session_state:
-    with h5py.File("question_embeddings.h5", 'r') as h5file:
-        st.session_state['question_embedding'] = h5file['vectors'][:]
-        st.session_state['question_contents'] = h5file['text'][:]
-        st.session_state['question_contents'] = [s.decode('utf-8') for s in st.session_state['question_contents']]
-    st.session_state['question_neighbours'] = NearestNeighbors(n_neighbors=k_neigh, algorithm='auto').fit(st.session_state['question_embedding'])
+# if "question_embedding" not in st.session_state:
+#     with h5py.File("question_embeddings.h5", 'r') as h5file:
+#         st.session_state['question_embedding'] = h5file['vectors'][:]
+#         st.session_state['question_contents'] = h5file['text'][:]
+#         st.session_state['question_contents'] = [s.decode('utf-8') for s in st.session_state['question_contents']]
+#     st.session_state['question_neighbours'] = NearestNeighbors(n_neighbors=k_neigh, algorithm='auto').fit(st.session_state['question_embedding'])
 
 if "document_embedding" not in st.session_state:
-    with h5py.File("article_embeddings.h5", 'r') as h5file:
+    with h5py.File("../bin/article_embeddings.h5", 'r') as h5file:
         st.session_state['document_embedding'] = h5file['vectors'][:]
         st.session_state['document_contents'] = h5file['text'][:]
         st.session_state['document_contents'] = [s.decode('utf-8') for s in st.session_state['document_contents']]
-    print(st.session_state['document_contents'])
     st.session_state['document_neighbours'] = NearestNeighbors(n_neighbors=k_neigh, algorithm='auto').fit(st.session_state['document_embedding'])
+
 
 # initialize history
 if "messages" not in st.session_state:
@@ -97,10 +100,11 @@ if "messages" not in st.session_state:
 
 # init models
 if "model" not in st.session_state:
-    question_generator = CodeAgent(tools=[question_type, article], model=HfApiModel(), max_steps=5, name="question_generator", description="Generates a question based on articles.")
-    answer_generator = CodeAgent(tools=[article], model=HfApiModel(), max_steps=5, name="answer_generator", description="Generates a very detailed answer to a patent law question with relevant quotes with their sources.")
-    answer_comparator = CodeAgent(tools=[], model=HfApiModel(), max_steps=5, name="answer_comparator", description="Compares the answer generator's response to the user's to a question and provide feedback.", managed_agents=[answer_generator])
-    st.session_state["main_agent"] = CodeAgent(tools=[article], model=HfApiModel(), max_steps = 5, managed_agents=[question_generator, answer_comparator])
+    question_generator = CodeAgent(tools=[question_type, article], model=HfApiModel(), max_steps=1, name="question_generator", description="Generates a question based on articles.")
+    answer_generator = CodeAgent(tools=[article], model=HfApiModel(), max_steps=1, name="answer_generator", description="Generates a very detailed answer to a patent law question with relevant quotes with their sources.")
+    answer_comparator = CodeAgent(tools=[], model=HfApiModel(), max_steps=2, name="answer_comparator", description="Compares the answer generator's response to the user's to a question and provide feedback.", managed_agents=[answer_generator])
+    st.session_state["main_agent"] = CodeAgent(tools=[article], model=HfApiModel(), max_steps = 3, managed_agents=[question_generator, answer_comparator])
+
 
 def model_res_generator():
     for message in st.session_state['messages']:
