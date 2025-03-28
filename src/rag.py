@@ -17,7 +17,7 @@ import torch
 
 class Model:
     def __init__(self, model_name="mistral-small-latest", temperature=0.7):
-        self.client = Mistral(api_key="****")
+        self.client = Mistral(api_key="yxSHnTCv8xWT77A8Cv1OXvqkQT9DaKUX")
         self.model_name = model_name
         self.temperature = temperature
 
@@ -87,12 +87,10 @@ def retrival(subject: str, nb_article: int) -> str:
 
 
 SYSTEM_PROMPT = """
-You are responsible for writing questions to test students on European patent law.
-Students will ask you for questions. If a specific topic is mentionned, ask them about it, otherwise, select at random.
-When creating a question, you are not responsible for answering questions, only for asking them.
-When receiving a USER's answer, you will evaluate it and provide feedback.
-If the student asks you for specifications about a specific topic, answer as detailly as possible, in multiple parts.
-Your knowledge about European patent law is limited to what you can get from the tool [article], the articles and rules following (CONTEXT).
+Students will ask you questions about patent law.
+Give a detailled anwser using only the context (CONTEXT) you get.
+If the context is not relevant with the user answer, tell the user and don't answer.
+If you can determine what the user want from the question, ask him to specifie the question.
 """
 
 st.title("RAG patent law chatbot")

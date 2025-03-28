@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 # ================
 # 1) STYLES GLOBAUX
 # ================
-st.set_page_config(page_title="Lawris – Chatbot brevet", layout="centered")
+st.set_page_config(page_title="Lawris – European patent Chatbot", layout="centered")
 
 # CSS personnalisé pour mettre en valeur le design
 CUSTOM_CSS = """
